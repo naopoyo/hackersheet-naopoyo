@@ -1,6 +1,7 @@
 ---
 name: "VSCode の ruby カスタマイズ"
 slug: "euehqul"
+tags: ["VSCode"]
 ---
 
 # VSCodeのRubyカスタマイズ
