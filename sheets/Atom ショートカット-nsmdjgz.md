@@ -1,6 +1,7 @@
 ---
-name: "Atom ショートカット"
+name: "Atomのショートカット"
 slug: "nsmdjgz"
+tags: ["Atom"]
 ---
 
 # Atomのショートカット
