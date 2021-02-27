@@ -21,9 +21,9 @@ brew cask install visual-studio-code
 - **Prettier**  
   コードフォーマット
 - **Markdown All in One**  
-  Markdownを便利
-- **Text Tables**
-  Markdownの表を便利
+  Markdownを便利に
+- **Text Tables**  
+  Markdownの表を便利に
 
 ## ショートカット
 
