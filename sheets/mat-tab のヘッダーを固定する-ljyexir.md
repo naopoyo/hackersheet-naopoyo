@@ -1,6 +1,7 @@
 ---
 name: "mat-tab のヘッダーを固定する"
 slug: "ljyexir"
+tags: ["Angular"]
 ---
 
 Angular Materialのタブコンポーネントのヘッダー部分を固定する。
