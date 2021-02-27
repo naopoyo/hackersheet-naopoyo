@@ -4,6 +4,8 @@ slug: "dtckmyi"
 tags: ["CSS"]
 ---
 
+# はみ出した文字を省略するCSS
+
 ```scss
 text-overflow: ellipsis;
 ```
@@ -27,8 +29,4 @@ p {
 }
 ```
 
-
-## 関連シート
-
-[CSS](https://hackersheet.com/lbbxcpx/sheets/hatiotl)
 
