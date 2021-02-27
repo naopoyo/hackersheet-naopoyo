@@ -1,6 +1,7 @@
 ---
-name: "Angular Material メモ"
+name: "Angular Materialメモ"
 slug: "fgsxpum"
+tags: ["Angular"]
 ---
 
 # Angular Materialメモ
