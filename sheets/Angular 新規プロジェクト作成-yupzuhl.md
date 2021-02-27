@@ -14,7 +14,7 @@ ng new [PROJECT_NAME]
  
 | オプション | 説明 |
 | --- | --- |
-| `--skipInstall=true|false` | trueの場合、パッケージのインストールをしない |
+| `--skipInstall=true\|false` | trueの場合、パッケージのインストールをしない |
 | `--style=css|scss|sass|less|styl` | cssの種類 |
 | `--skipGit=true|false` | trueの場合、Gitリポジトリを作成しない |
 | `--directory=directory` | インストールするディレクトリを指定する |
