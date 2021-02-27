@@ -4,17 +4,18 @@ slug: "xtrayra"
 tags: ["Angular"]
 ---
 
+# Angularコンポーネント基本
 
 ## classを動的に設定
 
-```xml
+```html
 <div [ngClass]="{ 'class-name': true, 'hoge-class': true }">
 </div>
 ```
 
 trueの場合、有効化
 
-```xml
+```html
 <div class="class-name hoge-class">
 </div>
 ```
