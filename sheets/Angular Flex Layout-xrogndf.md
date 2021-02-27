@@ -4,6 +4,7 @@ slug: "xrogndf"
 tags: ["Angular"]
 ---
 
+# Angular Flex Layout
 
 ## fxLayout
 
@@ -101,6 +102,3 @@ baseline
 ```
 fxFlexFill
 ```
-
-[Angular](https://hackersheet.com/lbbxcpx/sheets/yezfvlo)
-
