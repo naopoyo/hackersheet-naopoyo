@@ -6,38 +6,34 @@ tags: ["Kubernetes"]
 
 # Kubernetesコマンド
 
-## Pod関連
+## Pod一覧
 
 ```
 kubectl get pod
 ```
 
-Pod一覧
+## Pod削除
 
 ```
 kubectl delete pod [POD_NAME]
 ```
 
-Pod削除
+## UnknownなPodを削除
 
 ```
 kubectl delete pod [POD_NAME] --grace-period=0 --force
 ```
 
-Unknown な Pod を削除
-
-
-## その他
+## [DIR_NAME]以下のマニフェストファイルをすべて適用
 
 ```
 kubectl apply -f [DIR_NAME] -R
 ```
 
-[DIR_NAME]以下のマニフェストファイルをすべて適用
+## コンテナにログイン
 
 ```
 kubectl exec -it [POD_NAME] --container [CONTAINER_NAME] /bin/sh
 ```
 
-コンテナにログイン
 
