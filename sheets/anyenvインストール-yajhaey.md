@@ -3,11 +3,15 @@ name: "anyenvインストール"
 slug: "yajhaey"
 ---
 
+# anyenvインストール
+
+## Homebrewでインストール
+
 ```
 brew install anyenv
 ```
 
-Homebrewでインストール
+## 初期化
 
 ```
 anyenv init
@@ -17,9 +21,11 @@ anyenv init
 anyenv install --init
 ```
 
+## インストール可能なenvを確認
+
 ```
 anyenv install -l
 ```
 
-インストール可能なenvを確認
+
 
