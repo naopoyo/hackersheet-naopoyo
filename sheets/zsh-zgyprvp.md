@@ -1,6 +1,7 @@
 ---
 name: "zsh"
 slug: "zgyprvp"
+tags: ["Linux"]
 ---
 
 # zsh
