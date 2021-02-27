@@ -4,11 +4,12 @@ slug: "xbnfttt"
 tags: ["npm"]
 ---
 
+# npmキャッシュクリア
+
+
 ```
 npm cache verify
 ```
-
-まずは、このコマンドで確認
 
 ```
 npm cache clean --force
