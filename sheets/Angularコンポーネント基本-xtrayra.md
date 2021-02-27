@@ -15,13 +15,12 @@ tags: ["Angular"]
 
 trueの場合、有効化
 
+### classを動的に設定して出力されるHTML
+
 ```html
 <div class="class-name hoge-class">
 </div>
 ```
-
-実際のHTML
-
 
 ## 条件分岐 (ngIf)
 
