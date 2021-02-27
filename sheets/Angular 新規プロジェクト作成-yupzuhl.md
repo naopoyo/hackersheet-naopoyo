@@ -1,6 +1,7 @@
 ---
 name: "Angular 新規プロジェクト作成"
 slug: "yupzuhl"
+tags: ["Angular"]
 ---
 
 # Angular 新規プロジェクト作成
