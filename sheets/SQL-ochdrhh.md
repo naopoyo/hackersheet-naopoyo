@@ -30,9 +30,11 @@ DROP DATABASE IF EXISTS DB名
 ALTER TABLE 表名 ADD 列名 データ型;
 ```
 
+### オートインクリメントのリセット
+
 ```sql
 ALTER TABLE 表名 auto_increment = 1;
 ```
 
-オートインクリメントのリセット
+
 
