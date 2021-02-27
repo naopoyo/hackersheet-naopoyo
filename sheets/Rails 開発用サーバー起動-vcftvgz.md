@@ -1,5 +1,5 @@
 ---
-name: "Rails 開発用サーバー起動"
+name: "Railsの開発用サーバー起動"
 slug: "vcftvgz"
 tags: ["Ruby"]
 ---
