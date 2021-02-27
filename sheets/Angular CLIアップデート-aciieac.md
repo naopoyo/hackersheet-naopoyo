@@ -4,26 +4,23 @@ slug: "aciieac"
 tags: ["Angular"]
 ---
 
+# Angular CLIアップデート
+グローバルな環境のAngular CLIをアップデートする。
+
+## アンインストール
+
 ```
 npm uninstall -g @angular/cli
 ```
 
-アンインストール
+## キャッシュをクリア
 
 ```
 npm cache verify
 ```
 
-キャッシュをクリア
+## 最新版をインストール
 
 ```
 npm install -g @angular/cli@latest
 ```
-
-最新版をインストール
-
-
-## 関連シート
-
-[Angular](https://hackersheet.com/lbbxcpx/sheets/yezfvlo)
-
