@@ -1,6 +1,7 @@
 ---
-name: "Git"
+name: "Gitコマンド"
 slug: "tiurlhn"
+tags: ["Git"]
 ---
 
 # Gitコマンド
