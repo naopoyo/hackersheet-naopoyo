@@ -10,6 +10,3 @@ mat-checkbox ::ng-deep .mat-checkbox-inner-container {
   height: 24px;
 }
 ```
-
-[Angular Material](https://hackersheet.com/lbbxcpx/sheets/rvfohgk)
-
