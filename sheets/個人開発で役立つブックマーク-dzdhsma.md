@@ -1,6 +1,7 @@
 ---
 name: "個人開発で役立つブックマーク"
 slug: "dzdhsma"
+tags: ["ブックマーク"]
 ---
 
 - [アプリプロモーションサービス | NewAppPlace](https://www.newappplace.com/)
