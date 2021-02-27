@@ -1,6 +1,7 @@
 ---
 name: "rem と px の変換表"
 slug: "ddtzwuu"
+tags: ["CSS"]
 ---
 
 # remとpxの変換表
