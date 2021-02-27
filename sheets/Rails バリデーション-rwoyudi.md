@@ -4,33 +4,34 @@ slug: "rwoyudi"
 tags: ["Ruby"]
 ---
 
+# Rails バリデーション
+
+## admin member guest のいずれかを含む
+
 ```ruby
 validates :role, inclusion: { in: %w(admin member guest) }
 ```
 
-admin member guest のいずれかを含む
+## 空でない
 
 ```ruby
 validates :username, presence: true
 ```
 
-空でない
+## ユニークな
 
 ```ruby
 validates :username, uniqueness: true
 ```
 
-ユニークな
+## 16文字まで
 
 ```ruby
 validates :username, length: { maximum: 16 }
 ```
 
-16文字まで
+## 半角英数
 
 ```ruby
 validates :username, format: { with: /\A[a-zA-Z0-9]+\z/i }
 ```
-
-半角英数
-
