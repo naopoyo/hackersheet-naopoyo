@@ -1,6 +1,7 @@
 ---
 name: "anyenv rbenvでRuby環境構築"
 slug: "apvlalc"
+tags: ["開発環境"]
 ---
 
 # anyenvとrbenvでRuby環境構築

@@ -1,7 +1,7 @@
 ---
 name: "Atom"
 slug: "puexftt"
-tags: ["Atom"]
+tags: ["開発環境"]
 ---
 
 # Atom

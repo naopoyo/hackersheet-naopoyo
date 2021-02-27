@@ -1,7 +1,7 @@
 ---
 name: "zsh"
 slug: "zgyprvp"
-tags: ["Linux"]
+tags: ["開発環境"]
 ---
 
 # zsh

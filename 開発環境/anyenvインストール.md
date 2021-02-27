@@ -1,6 +1,7 @@
 ---
 name: "anyenvインストール"
 slug: "yajhaey"
+tags: ["開発環境"]
 ---
 
 # anyenvインストール

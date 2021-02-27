@@ -1,7 +1,7 @@
 ---
 name: "pecoでコマンド履歴を検索"
 slug: "jbpwqdv"
-tags: ["Linux"]
+tags: ["開発環境"]
 ---
 
 # pecoでコマンド履歴を検索

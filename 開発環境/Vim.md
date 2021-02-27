@@ -1,6 +1,7 @@
 ---
 name: "Vim"
 slug: "ldrbxgh"
+tags: ["開発環境"]
 ---
 
 # Vim

@@ -1,7 +1,7 @@
 ---
 name: "Prezto"
 slug: "dlxdoaq"
-tags: ["Linux"]
+tags: ["開発環境"]
 ---
 
 # Prezto

@@ -1,6 +1,7 @@
 ---
 name: "anyenv+nodenvでnodejs環境構築"
 slug: "grbwfmj"
+tags: ["開発環境"]
 ---
 
 # anyenv+nodenvでnodejs環境構築

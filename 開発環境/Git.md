@@ -1,7 +1,7 @@
 ---
 name: "Gitコマンド"
 slug: "tiurlhn"
-tags: ["Git"]
+tags: ["開発環境"]
 ---
 
 # Gitコマンド

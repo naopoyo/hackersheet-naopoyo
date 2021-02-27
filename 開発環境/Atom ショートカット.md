@@ -1,7 +1,7 @@
 ---
 name: "Atomのショートカット"
 slug: "nsmdjgz"
-tags: ["Atom"]
+tags: ["開発環境"]
 ---
 
 # Atomのショートカット
