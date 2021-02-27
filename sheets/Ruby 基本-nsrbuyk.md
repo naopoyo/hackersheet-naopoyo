@@ -1,6 +1,7 @@
 ---
 name: "Ruby 基本"
 slug: "nsrbuyk"
+tags: ["Ruby"]
 ---
 
 # Ruby基本
