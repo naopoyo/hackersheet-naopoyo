@@ -4,17 +4,18 @@ slug: "jfskjws"
 tags: ["Angular"]
 ---
 
+# Angular Universal
+
+
+## インストール
+
 ```
 ng add @nguniversal/express-engine
 ```
 
-インストール
+## 開発用サーバーを起動
 
 ```
 npm run dev:ssr
 ```
-
-開発用サーバーを起動
-
-[Angular](https://hackersheet.com/lbbxcpx/sheets/yezfvlo)
 
