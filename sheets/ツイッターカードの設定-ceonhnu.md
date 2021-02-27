@@ -1,0 +1,20 @@
+---
+name: "ツイッターカードの設定"
+slug: "ceonhnu"
+---
+
+# ツイッターカードの設定
+
+## 正方形の画像
+
+```xml
+<meta name="twitter:card" content="summary">
+```
+
+## 大きい画像
+
+```xml
+<meta name="twitter:card" content="summary_large_image">
+```
+
+
