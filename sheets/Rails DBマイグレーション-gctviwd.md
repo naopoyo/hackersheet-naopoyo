@@ -4,6 +4,7 @@ slug: "gctviwd"
 tags: ["Ruby"]
 ---
 
+# Rails DBマイグレーション
 
 ## 基本
 
@@ -50,6 +51,4 @@ t.belongs_to :user, null: false, foreign_key: true
 ```ruby
 t.belongs_to :owner, null: false, foreign_key: { to_table: :users }
 ```
-
-[Ruby](https://hackersheet.com/lbbxcpx/sheets/putgewh)
 
