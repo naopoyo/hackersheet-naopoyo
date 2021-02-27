@@ -5,6 +5,8 @@ tags: ["npm"]
 ---
 
 
+# npm
+
 ## パッケージの確認
 
 ```
@@ -101,12 +103,4 @@ npm audit fix
 
 修正
 
-
-## 関連シート
-
-[npm バージョン表記](https://hackersheet.com/lbbxcpx/sheets/qkpebrd)
-
-[npm キャッシュクリア](https://hackersheet.com/lbbxcpx/sheets/xbnfttt)
-
-[ncu](https://hackersheet.com/lbbxcpx/sheets/stcecoq)
 
