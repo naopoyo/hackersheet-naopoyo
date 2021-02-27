@@ -1,7 +1,7 @@
 ---
 name: "Shell"
 slug: "ganzwyd"
-tags: ["sh"]
+tags: ["Linux"]
 ---
 
 # Shell
