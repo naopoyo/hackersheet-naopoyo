@@ -4,7 +4,7 @@ slug: "ochdrhh"
 tags: ["MySQL"]
 ---
 
-# SQL
+# MySQLの基本的なコマンド
 
 ## 基本
 
