@@ -1,5 +1,5 @@
 ---
-name: "rem と px の変換表"
+name: "remとpxの変換表"
 slug: "ddtzwuu"
 tags: ["CSS"]
 ---
