@@ -1,7 +1,7 @@
 ---
-name: "SQL"
+name: "MySQLの基本的なコマンド"
 slug: "ochdrhh"
-tags: ["SQL"]
+tags: ["MySQL"]
 ---
 
 # SQL
