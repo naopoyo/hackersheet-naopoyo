@@ -4,10 +4,9 @@ slug: "okvluaa"
 tags: ["Angular"]
 ---
 
+# ngx-highlightjs
 
-## 概要
-
-Angularでシンタックスハイライト
+Angularでシンタックスハイライト。
 
 
 ## インストール
@@ -16,19 +15,17 @@ Angularでシンタックスハイライト
 npm install -S ngx-highlightjs highlight.js
 ```
 
+### @typesインストール
 ```
 npm install --save-dev @types/highlight.js
 ```
 
-@typesインストール
+## scssをインポート
 
 ```scss
 // style.scss
 @import '~highlight.js/scss/atom-one-dark.scss';
 ```
-
-scssをインポート
-
 
 ## directiveの使い方
 
@@ -49,6 +46,8 @@ export function hljsLangs() {
 }
 ```
 
+## @NgModuleのインポート
+
 ```typescript
 @NgModule({
   imports: [
@@ -61,7 +60,6 @@ export function hljsLangs() {
 export class AppModule { }
 ```
 
-@NgModuleのインポート
 
-[Angular](https://hackersheet.com/lbbxcpx/sheets/yezfvlo)
+
 
