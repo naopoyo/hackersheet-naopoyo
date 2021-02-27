@@ -1,6 +1,7 @@
 ---
 name: "Visual Studio Code"
 slug: "klivycc"
+tags: ["VSCode"]
 ---
 
 # Visual Studio Code
