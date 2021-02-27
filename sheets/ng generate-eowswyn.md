@@ -16,5 +16,3 @@ ng g service
 ng g component
 ```
 
-[Angular](https://hackersheet.com/lbbxcpx/sheets/yezfvlo)
-
