@@ -1,6 +1,7 @@
 ---
 name: "Rubocop設定"
 slug: "gyaskpf"
+tags: ["Ruby"]
 ---
 
 # Rubocop設定
