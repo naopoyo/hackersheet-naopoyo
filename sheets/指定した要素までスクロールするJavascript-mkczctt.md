@@ -4,6 +4,8 @@ slug: "mkczctt"
 tags: ["Javascript"]
 ---
 
+# 指定した要素までスクロールするJavascript
+
 ```javascript
 element.scrollIntoView(options)
 ```
@@ -21,6 +23,8 @@ options = {
 }
 ```
 
+|||
+| --- | --- |
 | behavior | スクロールの動作 |
 | block | 垂直方向のスクロール位置 |
 | inline | 水平方向のスクロール位置 |
