@@ -1,6 +1,7 @@
 ---
 name: "Rails モデル関連のよく使うやつ"
 slug: "pcqoyfy"
+tags: ["Ruby"]
 ---
 
 #  Rails モデル関連のよく使うやつ
