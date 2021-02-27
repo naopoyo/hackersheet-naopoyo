@@ -4,6 +4,8 @@ slug: "fiwnzbq"
 tags: ["Angular"]
 ---
 
+# Angularのimport fromの短縮
+
 tsconfig.json に以下を追記。
 
 ```json
@@ -22,6 +24,4 @@ tsconfig.json に以下を追記。
 ```typescript
 import { Hoge } from '@app/hoge'
 ```
-
-[Angular](https://hackersheet.com/lbbxcpx/sheets/yezfvlo)
 
