@@ -27,7 +27,7 @@ brew cask install visual-studio-code
 
 | キー                        | 説明               |
 | ------------------------- | ---------------- |
-| ≈ + `               | ターミナルを開く         |
+| ⌘ + `               | ターミナルを開く         |
 | ⌥ + ⇧ + F        | コードフォーマット        |
 | ⌘ + K → V                 | Markdown Preview |
 | ⌃ + Q → ⌃ + Q | Table Mode切り替え   |
