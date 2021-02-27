@@ -4,6 +4,8 @@ slug: "xfstuhh"
 tags: ["Ruby"]
 ---
 
+#  Rails モデルのデータ型
+
 ```
 boolean
 ```
@@ -35,6 +37,3 @@ float
 ```
 decimal
 ```
-
-[Ruby](https://hackersheet.com/lbbxcpx/sheets/putgewh)
-
