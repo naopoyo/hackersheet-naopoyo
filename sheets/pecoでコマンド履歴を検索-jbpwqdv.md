@@ -4,11 +4,17 @@ slug: "jbpwqdv"
 tags: ["Linux"]
 ---
 
+# pecoでコマンド履歴を検索
+
+## インストール
+
 ```
 brew install peco
 ```
 
-[iTerm + zsh + prezto + pecoの組合せ | 公開懺悔日記](https://www.barasu.org/pc/mac/13705.html)
+# リンク
+
+- [iTerm + zsh + prezto + pecoの組合せ | 公開懺悔日記](https://www.barasu.org/pc/mac/13705.html)
 
 
 ## ショートカット
