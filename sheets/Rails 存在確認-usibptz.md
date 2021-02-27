@@ -4,15 +4,17 @@ slug: "usibptz"
 tags: ["Ruby"]
 ---
 
+## ローカル変数が存在するかどうか
+
 ```ruby
 defined? val
 ```
 
-ローカル変数が存在するかどうか
+
+## メソッドが存在するかどうか
+
 
 ```ruby
 model.respond_to? :method
 ```
-
-メソッドが存在するかどうか
 
