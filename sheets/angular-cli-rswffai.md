@@ -4,6 +4,8 @@ slug: "rswffai"
 tags: ["Angular"]
 ---
 
+| | |
+| --- | --- |
 | ng | ng |
 | start | ng serve --host 0.0.0.0 |
 | build | ng build |
@@ -14,5 +16,4 @@ tags: ["Angular"]
 | dev:ssr | ng run app:serve-ssr --host 0.0.0.0 |
 | serve:ssr | node dist/server/main.js |
 | build:ssr | ng build --prod && ng run app:server:production |
-[Angular](https://hackersheet.com/lbbxcpx/sheets/yezfvlo)
 
