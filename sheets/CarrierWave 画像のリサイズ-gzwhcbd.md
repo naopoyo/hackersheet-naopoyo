@@ -1,6 +1,7 @@
 ---
 name: "CarrierWave 画像のリサイズ"
 slug: "gzwhcbd"
+tags: ["Ruby"]
 ---
 
 # CarrierWave 画像のリサイズ
