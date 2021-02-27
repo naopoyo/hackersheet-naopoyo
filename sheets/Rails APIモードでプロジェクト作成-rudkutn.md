@@ -1,6 +1,7 @@
 ---
 name: "Rails APIモードでプロジェクト作成"
 slug: "rudkutn"
+tags: ["Ruby"]
 ---
 
 # Rails APIモードでプロジェクト作成
