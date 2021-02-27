@@ -1,6 +1,7 @@
 ---
 name: "Rails puma用nginx.conf"
 slug: "vymjnmg"
+tags: ["Ruby"]
 ---
 
 # Rails puma用nginx.conf
