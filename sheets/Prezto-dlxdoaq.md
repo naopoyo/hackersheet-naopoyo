@@ -4,6 +4,7 @@ slug: "dlxdoaq"
 tags: ["Linux"]
 ---
 
+# Prezto
 zshの環境設定フレームワーク。
 
 
