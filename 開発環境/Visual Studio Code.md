@@ -33,6 +33,7 @@ brew cask install visual-studio-code
 | option + shift + F        | コードフォーマット        |
 | ⌘ + k → v                 | Markdown Preview |
 | Control + q → Control + q | Table Mode切り替え   |
+| ⌘ + p                     | クイックオープン         |
 
 ## 設定
 
