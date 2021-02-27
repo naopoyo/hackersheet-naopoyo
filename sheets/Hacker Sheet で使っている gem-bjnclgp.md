@@ -1,6 +1,7 @@
 ---
-name: "Hacker Sheet で使っている gem"
+name: "Hacker Sheetで使っているgem"
 slug: "bjnclgp"
+tags: ["Ruby"]
 ---
 
 # Hacker Sheetで使っているgem
