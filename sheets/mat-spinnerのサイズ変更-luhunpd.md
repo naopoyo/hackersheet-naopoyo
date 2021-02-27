@@ -4,13 +4,12 @@ slug: "luhunpd"
 tags: ["Angular"]
 ---
 
-Angular material の mat-spinner の大きさを変更する方法。
 
-```xml
+```html
 <mat-spinner diameter="60"></mat-spinner>
 ```
 
-diameter の値を変えると大きさが変わる。
+Angular materialのmat-spinnerの大きさを変更する方法。
 
-[Angular Material](https://hackersheet.com/lbbxcpx/sheets/rvfohgk)
+diameter の値を変えると大きさが変わる。
 
