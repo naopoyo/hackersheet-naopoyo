@@ -1,6 +1,7 @@
 ---
-name: "Typescript Base64のエンコードとデコード"
+name: "TypescriptのBase64のエンコードとデコード"
 slug: "bvtrkwt"
+tags: ["Typescript"]
 ---
 
 # TypescriptのBase64のエンコードとデコード
