@@ -4,17 +4,19 @@ slug: "yjwjhro"
 tags: ["MySQL"]
 ---
 
+## データベース一覧
+
 ```sql
 SHOW DATABASES
 ```
 
-データベース一覧
+## 使用するデータベースを選択する
 
 ```sql
 USE [DATABASE_NAME]
 ```
 
-使用するデータベースを選択する
+## 現在実行中のプロセスの一覧
 
 ```sql
 SHOW PROCESSLIST
@@ -23,6 +25,4 @@ SHOW PROCESSLIST
 ```sql
 SHOW FULL PROCESSLIST
 ```
-
-現在実行中のプロセスの一覧
 
