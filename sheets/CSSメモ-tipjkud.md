@@ -4,7 +4,7 @@ slug: "tipjkud"
 tags: ["CSS"]
 ---
 
-
+# CSSメモ
 ## タイルレイアウト
 
 ```css
@@ -22,9 +22,10 @@ column-count: 3;
 column-gap: 24px;
 ```
 
-
 ## font-size
 
+| 単位 | 説明 |
+| --- | --- |
 | px | 絶対値 |
 | % | 親要素相対値 |
 | em | 親要素相対値 |
@@ -57,8 +58,4 @@ transform: rotate(45deg);
 
 傾ける
 
-
-## 関連シート
-
-[CSS](https://hackersheet.com/lbbxcpx/sheets/hatiotl)
 
