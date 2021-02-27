@@ -1,6 +1,7 @@
 ---
 name: "Angular Universal なアプリケーションで webfontloader を使う"
 slug: "xnnhvgh"
+tags: ["Angular"]
 ---
 
 # Angular Universalなアプリケーションでwebfontloaderを使う
