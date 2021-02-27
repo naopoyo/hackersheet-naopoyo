@@ -5,6 +5,8 @@ slug: "yupzuhl"
 
 # Angular 新規プロジェクト作成
 
+## コマンド
+
 ```
 ng new [PROJECT_NAME]
 ```
