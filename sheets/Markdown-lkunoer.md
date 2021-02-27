@@ -1,5 +1,5 @@
 ---
-name: "Markdown"
+name: "Markdown記法"
 slug: "lkunoer"
 tags: ["Markdown"]
 ---
