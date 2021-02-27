@@ -4,9 +4,7 @@ slug: "klivycc"
 tags: ["開発環境"]
 ---
 
-# Visual Studio Code
-
-MacでVisual Studio Codeを使うときのいろいろなメモ。
+# MacでVisual Studio Codeを使うときのメモ
 
 ## Homebrew でインストール
 
