@@ -1,5 +1,5 @@
 ---
-name: "YAML"
+name: "YAML記法"
 slug: "kpeunnj"
 ---
 
