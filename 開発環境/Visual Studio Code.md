@@ -16,13 +16,13 @@ brew cask install visual-studio-code
 
 ## 拡張機能
 
-- vscode-icons  
+- **vscode-icons**  
   ファイルツリーにアイコンを表示
-- Prettier  
+- **Prettier**  
   コードフォーマット
-- Markdown All in One  
+- **Markdown All in One**  
   Markdownを便利
-- Text Tables
+- **Text Tables**
   Markdownの表を便利
 
 ## ショートカット
