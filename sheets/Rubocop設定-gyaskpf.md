@@ -44,8 +44,3 @@ Style/FrozenStringLiteralComment:
   Enabled: false
 ```
 
-
-## 関連シート
-
-[Ruby](https://hackersheet.com/lbbxcpx/sheets/putgewh)
-
