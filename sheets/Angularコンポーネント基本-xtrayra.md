@@ -50,6 +50,3 @@ trueの場合、有効化
 <ng-container *ngFor="let item of items; let i = index">
 </ng-container>
 ```
-
-[Angular](https://hackersheet.com/lbbxcpx/sheets/yezfvlo)
-
