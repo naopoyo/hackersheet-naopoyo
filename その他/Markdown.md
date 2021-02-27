@@ -1,7 +1,6 @@
 ---
 name: "Markdown記法"
 slug: "lkunoer"
-tags: ["Markdown"]
 ---
 
 # Markdown記法
