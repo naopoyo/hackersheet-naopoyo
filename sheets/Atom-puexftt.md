@@ -4,22 +4,18 @@ slug: "puexftt"
 tags: ["Atom"]
 ---
 
+# Atom
 
 ## gitignoreされたファイルを表示する
 
-```
-Preferences >
-Packages >
-tree-view Hide VCS ignored Files
-のチェックを外す
-```
-
+1. Preferences
+2. Packages
+3. tree-view Hide VCS ignored Filesのチェックを外す
 
 ## 英字の大文字小文字変換
 
-```
-Edit >
-Text >
-Upper Case | Lower Case
-```
+1. Edit
+2. Text
+3. Upper Case | Lower Case
+
 
