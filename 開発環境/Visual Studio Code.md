@@ -1,5 +1,5 @@
 ---
-name: "Visual Studio Code"
+name: "MacでVisual Studio Codeを使うときのメモ"
 slug: "klivycc"
 tags: ["開発環境"]
 ---
