@@ -5,6 +5,8 @@ tags: ["Typescript"]
 ---
 
 
+# Typescript基本
+
 ## イベント中断
 
 ```typescript
@@ -54,11 +56,4 @@ console.log(b); // [2, 8, 18, 32]
 ```typescript
 role: "admin" | "member" | "guesr";
 ```
-
-
-## 関連シート
-
-[Typescript Base64のエンコードとデコード](https://hackersheet.com/lbbxcpx/sheets/bvtrkwt)
-
-[Typescript 特定の文字列だけを許可する型を作る](https://hackersheet.com/lbbxcpx/sheets/rvwtqcm)
 
