@@ -4,18 +4,20 @@ slug: "crahfnx"
 tags: ["Angular"]
 ---
 
-```
-ng update @angular/cli @angular/core
-```
+# Angularアップデート
+
+## アップデートの確認
 
 ```
 ng update
 ```
 
-アップデートの確認
+## アップデート
 
+```
+ng update @angular/cli @angular/core
+```
 
-## 関連シート
+## リンク
 
-[Angular](https://hackersheet.com/lbbxcpx/sheets/yezfvlo)
-
+- [Angular Update Guide](https://update.angular.io/)
