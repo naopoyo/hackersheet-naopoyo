@@ -4,9 +4,10 @@ slug: "mnzxihs"
 tags: ["Ruby"]
 ---
 
+# Active Storage
+
+## インストール
+
 ```
 rails active_storage:install
 ```
-
-[Ruby](https://hackersheet.com/lbbxcpx/sheets/putgewh)
-
