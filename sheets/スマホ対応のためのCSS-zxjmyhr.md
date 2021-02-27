@@ -4,20 +4,16 @@ slug: "zxjmyhr"
 tags: ["CSS"]
 ---
 
+# スマホ対応のためのCSS
+
+## フォントサイズの自動調整をしないようにする
+
 ```css
 -webkit-text-size-adjust: 100%;
 ```
 
-フォントサイズの自動調整をしないようにする
+## スクロールをなめらかに
 
 ```css
 -webkit-overflow-scrolling: touch;
 ```
-
-スクロールをなめらかに
-
-
-## 関連シート
-
-[CSS](https://hackersheet.com/lbbxcpx/sheets/hatiotl)
-
