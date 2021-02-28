@@ -14,7 +14,7 @@ brew install peco
 
 ## ショートカット
 
-`Ctrl` + `R`
+`⌃` + `R`
 
 ## リンク
 
