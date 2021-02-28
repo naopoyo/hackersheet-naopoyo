@@ -1,5 +1,6 @@
 ---
 name: "Angular CDKでクリップボードにコピー"
+slug: "idzoxhm"
 tags: ["Angular"]
 ---
 
