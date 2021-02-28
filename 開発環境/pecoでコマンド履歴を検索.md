@@ -32,3 +32,4 @@ bindkey '^R' peco-history-selection
 ## リンク
 
 - [iTerm + zsh + prezto + pecoの組合せ | 公開懺悔日記](https://www.barasu.org/pc/mac/13705.html)
+- [peco/peco: Simplistic interactive filtering tool](https://github.com/peco/peco)
