@@ -6,7 +6,7 @@ tags: ["開発環境"]
 
 # anyenvとrbenvでRuby環境構築
 
-## インストール
+## rbenvをインストール
 
 ```
 anyenv install rbenv
@@ -24,7 +24,7 @@ exec $SHELL -l
 rbenv install -l
 ```
 
-## インストール
+## 指定したバージョンをインストール
 
 ```
 rbenv install [VERSION]
