@@ -1,38 +1,42 @@
 ---
-name: "anyenv rbenvでRuby環境構築"
+name: "anyenvとrbenvでRuby環境構築"
 slug: "apvlalc"
 tags: ["開発環境"]
 ---
 
 # anyenvとrbenvでRuby環境構築
 
+## インストール
+
 ```
 anyenv install rbenv
 ```
 
-インストール
+## シェルを再起動
 
 ```
 exec $SHELL -l
 ```
 
-シェルを再起動
+## インストール可能なバージョンを確認
 
 ```
 rbenv install -l
 ```
 
-インストール可能なバージョンを確認
+## インストール
 
 ```
 rbenv install [VERSION]
 ```
 
+## グローバル環境に設定
+
 ```
 rbenv global [VERSION]
 ```
 
-グローバル環境に設定
+## rehash
 
 ```
 rbenv rehash
