@@ -1,5 +1,5 @@
 ---
-name: "VSCode の ruby カスタマイズ"
+name: "VSCodeのRubyカスタマイズ"
 slug: "euehqul"
 tags: ["開発環境"]
 ---
