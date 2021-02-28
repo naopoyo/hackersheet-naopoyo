@@ -1,6 +1,7 @@
 ---
 name: "kagome"
 slug: "ptkykvc"
+tags: ["未分類"]
 ---
 
 # kagome

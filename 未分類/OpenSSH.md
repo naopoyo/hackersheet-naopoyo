@@ -1,6 +1,7 @@
 ---
 name: "OpenSSH"
 slug: "kxlzlgs"
+tags: ["未分類"]
 ---
 
 # OpenSSH

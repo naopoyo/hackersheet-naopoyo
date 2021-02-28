@@ -1,6 +1,7 @@
 ---
 name: "YAML記法"
 slug: "kpeunnj"
+tags: ["未分類"]
 ---
 
 # YAML記法

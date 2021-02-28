@@ -1,6 +1,7 @@
 ---
 name: "nslookup"
 slug: "kwalnxo"
+tags: ["未分類"]
 ---
 
 # nslookup
