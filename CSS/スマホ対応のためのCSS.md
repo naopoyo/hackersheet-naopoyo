@@ -17,3 +17,9 @@ tags: ["CSS"]
 ```css
 -webkit-overflow-scrolling: touch;
 ```
+
+## ダブルタップでズームしないようにする
+
+```css
+touch-action: manipulation;
+```
