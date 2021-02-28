@@ -4,51 +4,54 @@ slug: "yyaggdw"
 tags: ["Ruby"]
 ---
 
+# Railsコマンド
+
+## サーバー起動
+
 ```
 bundle exec rails s -b 0.0.0.0
 ```
 
-サーバー起動
+## モデル作成
 
 ```
 bundle exec rails g model [MODEL_NAME]
 ```
 
-モデル作成
+## タスク一覧
 
 ```
 bundle exec rails -T
 ```
 
-タスク一覧
+## DBマイグレーション
 
 ```
 bundle exec rails db:migrate
 ```
 
-DBマイグレーション
+## マイグレーションロールバック
 
 ```
 bundle exec rails db:rollback
 ```
 
-マイグレーションロールバック
+## マイグレーションリセット
 
 ```
 rails db:migrate:reset
 ```
 
-マイグレーションリセット
+## 新規プロジェクト作成
 
 ```
 rails new [APP_NAME] -d mysql
 ```
 
-新規プロジェクト作成
+## Railsバージョンアップ
 
 ```
 rails app:update
 ```
 
-Railsバージョンアップ
 
