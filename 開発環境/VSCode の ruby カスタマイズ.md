@@ -12,13 +12,13 @@ Visual Studio CodeをRuby, Rails用にカスタマイズ
 
 コード補完と定義元ジャンプ
 
-### Ruby Solargraphのインストール
+### インストール
 
 ```
 gem install solargraph
 ```
 
-### Ruby Solargraphの関連記事
+### 関連記事
 
 - [VSCodeでRuby Solargraph拡張機能を使ってみた話 - Qiita](https://qiita.com/hideki0145/items/d6a18095f95d57eebe96)
 
@@ -27,13 +27,13 @@ gem install solargraph
 
 コードフォーマット
 
-### ruby-rubocopのインストール
+### インストール
 
 ```
 gem install rubocop
 ```
 
-### ruby-rubocopの設定
+### 設定
 
 ```json
 {
