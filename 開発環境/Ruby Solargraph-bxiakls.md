@@ -16,7 +16,7 @@ gem install solargraph
 
 ## 設定ファイル作成
 
-プロジェクトルートで以下を実行すると.solargraph.ymlが作成される。
+プロジェクトルートで以下のコマンドを実行すると.solargraph.ymlが作成される。
 
 ```
 solargraph config
