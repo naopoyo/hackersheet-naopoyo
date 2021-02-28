@@ -62,13 +62,15 @@ h2
 
 ## コード
 
+### インライン
+
 ```markdown
 `some code`
 ```
 
-インライン
+### ブロック
 
-```markdown
+````markdown
 ```javascript
 (() => {
   'use strict';
@@ -76,10 +78,7 @@ h2
   console.log('Hello world');
 })();
 ```
-```
-
-ブロック
-
+````
 
 ## 強調
 
