@@ -59,7 +59,7 @@ tags: ["CSS"]
 | 0.85rem | 17px |
 | 0.9rem  | 18px |
 | 0.95rem | 19px |
-| 1.0rem  | 20px |
+| 1rem    | 20px |
 | 1.05rem | 21px |
 | 1.1rem  | 22px |
 | 1.15rem | 23px |
@@ -79,7 +79,7 @@ tags: ["CSS"]
 | 1.85rem | 37px |
 | 1.9rem  | 38px |
 | 1.95rem | 39px |
-| 2.0rem  | 40px |
+| 2rem    | 40px |
 
 ## 14px基準
 
