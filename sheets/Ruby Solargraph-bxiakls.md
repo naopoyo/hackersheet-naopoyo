@@ -1,6 +1,7 @@
 ---
 name: "Ruby Solargraph"
 slug: "bxiakls"
+tags: ["開発環境", "Ruby"]
 ---
 
 # Ruby Solargraph
