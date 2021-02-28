@@ -18,7 +18,7 @@ brew install peco
 
 ## .zshrc
 
-```
+```bash
 function peco-history-selection() {
     BUFFER=`history -n 1 | tail -r  | awk '!a[$0]++' | peco`
     CURSOR=$#BUFFER
