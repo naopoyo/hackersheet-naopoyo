@@ -14,6 +14,8 @@ Visual Studio CodeをRuby, Rails用にカスタマイズ
 
 ### インストール
 
+Solargraphをインストール
+
 ```
 gem install solargraph
 ```
@@ -28,6 +30,8 @@ gem install solargraph
 コードフォーマット
 
 ### インストール
+
+rubocopをインストール
 
 ```
 gem install rubocop
