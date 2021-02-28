@@ -68,7 +68,7 @@ h2
 
 インライン
 
-```markdown
+````markdown
 ```javascript
 (() => {
   'use strict';
@@ -76,7 +76,7 @@ h2
   console.log('Hello world');
 })();
 ```
-```
+````
 
 ブロック
 
