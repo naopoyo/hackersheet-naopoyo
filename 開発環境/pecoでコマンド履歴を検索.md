@@ -6,6 +6,8 @@ tags: ["開発環境"]
 
 # pecoでコマンド履歴を検索
 
+zshを使っている場合。
+
 ## インストール
 
 ```
@@ -17,6 +19,8 @@ brew install peco
 `⌃` + `R`
 
 ## .zshrc
+
+.zshrcに以下を追記する。
 
 ```sh
 function peco-history-selection() {
