@@ -4,7 +4,7 @@ slug: "bxiakls"
 tags: ["開発環境", "Ruby"]
 ---
 
-# Ruby Solargraph
+# VSCode Ruby Solargraph拡張
 
 VSCodeの拡張機能「Ruby Solargraph」を使う。コード補完や定義元ジャンプなどができるようになる。
 
