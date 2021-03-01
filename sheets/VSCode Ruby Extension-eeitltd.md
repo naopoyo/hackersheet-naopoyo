@@ -20,3 +20,5 @@ slug: "eeitltd"
   "ruby.useLanguageServer": false,
 }
 ```
+
+**db/schema.rbが除外されない時は`"forceExclusion": true`**
