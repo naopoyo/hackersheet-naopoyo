@@ -11,7 +11,10 @@ slug: "eeitltd"
   "ruby.format": "rubocop",
   "ruby.lintDebounceTime": 5000,
   "ruby.lint": {
-    "rubocop": true
+    "rubocop": {
+      "useBundler": false,
+      "forceExclusion": true
+    }
   },
   "ruby.useBundler": false,
   "ruby.useLanguageServer": false,
