@@ -97,6 +97,14 @@ _強調_
 __強調__
 ```
 
+## 表
+
+```markdown
+| header | header |
+| ------ | ------ |
+| Data   | Data   |
+| Data   | Data   |
+```
 
 ## リンク
 
