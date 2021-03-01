@@ -14,10 +14,6 @@ zshを使っている場合。
 brew install peco
 ```
 
-## ショートカット
-
-`⌃` + `R`
-
 ## .zshrc
 
 .zshrcに以下を追記する。
@@ -32,6 +28,10 @@ function peco-history-selection() {
 zle -N peco-history-selection
 bindkey '^R' peco-history-selection
 ```
+
+## ショートカット
+
+`⌃` + `R`
 
 ## リンク
 
