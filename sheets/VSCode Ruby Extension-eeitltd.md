@@ -21,4 +21,4 @@ slug: "eeitltd"
 }
 ```
 
-**db/schema.rbが除外されない時は`"forceExclusion": true`**
+db/schema.rbが除外されない時は`"forceExclusion": true`
