@@ -60,6 +60,17 @@ plugins: []
 max_files: 5000
 ```
 
+## VSCode設定
+
+settings.jsonを修正
+
+```json
+{
+  "solargraph.commandPath": "/Users/naopoyo/.anyenv/envs/rbenv/shims/solargraph",
+  "solargraph.useBundler": false,
+}
+```
+
 ## リンク
 
 - [VSCodeでRuby Solargraph拡張機能を使ってみた話 - Qiita](https://qiita.com/hideki0145/items/d6a18095f95d57eebe96)
