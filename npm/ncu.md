@@ -6,6 +6,12 @@ tags: ["npm"]
 
 # npm-check-updates
 
+package.jsonを最新の状態にする。
+
+## リポジトリ
+
+[raineorshine/npm-check-updates: Find newer versions of package dependencies than what your package.json allows](https://github.com/raineorshine/npm-check-updates)
+
 ## インストール
 
 ```
