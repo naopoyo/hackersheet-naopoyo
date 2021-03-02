@@ -59,6 +59,11 @@ docker ps
 
 起動中のコンテナ一覧
 
+```
+docker run --rm -it [CONTAINER_ID] sh 
+```
+
+起動してログイン
 
 ## イメージ操作
 
