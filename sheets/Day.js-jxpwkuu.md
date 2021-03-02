@@ -1,6 +1,7 @@
 ---
 name: "Day.js"
 slug: "jxpwkuu"
+tags: ["Javascript"]
 ---
 
 # Day.js
