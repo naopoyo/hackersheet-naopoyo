@@ -9,8 +9,8 @@ moment.jsの代わりに日付処理にDay.jsを使う。
 
 ## 公式
 
-[Day.js · 2kB JavaScript date utility library](https://day.js.org/)
-
+- [Day.js · 2kB JavaScript date utility library](https://day.js.org/)
+- [iamkun/dayjs: ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API](https://github.com/iamkun/dayjs)
 ## インストール
 
 ```
