@@ -1,6 +1,7 @@
 ---
 name: "ngrok"
 slug: "risbfjc"
+tags: ["開発環境"]
 ---
 
 # ngrok
