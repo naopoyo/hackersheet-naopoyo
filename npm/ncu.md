@@ -4,7 +4,7 @@ slug: "stcecoq"
 tags: ["npm"]
 ---
 
-# ncu
+# npm-check-updates
 
 ## インストール
 
