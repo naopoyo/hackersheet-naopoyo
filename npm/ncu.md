@@ -1,5 +1,5 @@
 ---
-name: "ncu"
+name: "npm-check-updates"
 slug: "stcecoq"
 tags: ["npm"]
 ---
