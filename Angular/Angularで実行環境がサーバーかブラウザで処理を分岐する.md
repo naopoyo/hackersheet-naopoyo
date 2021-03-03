@@ -20,13 +20,13 @@ constructor(
 ) {}
 ```
 
-## サーバー（SSR)
+## サーバー(SSR)の場合にtrue
 
 ```typescript
 isPlatformServer(this.platformId)
 ```
 
-## ブラウザ
+## ブラウザの場合にtrue
 
 ```typescript
 isPlatformBrowser(this.platformId)
