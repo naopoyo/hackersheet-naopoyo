@@ -1,3 +1,8 @@
+---
+name: "Rails用のDockerfile"
+slug: "vhaualb"
+---
+
 # Rails用のDockerfile
 
 ```dockerfile
