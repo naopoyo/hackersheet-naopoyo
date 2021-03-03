@@ -13,9 +13,9 @@ tags: ["Angular"]
 </div>
 ```
 
-trueの場合、有効化
+trueの場合、有効化。
 
-[ngClass]で出力されるHTML
+[ngClass]で出力されるHTMLは以下。
 
 ```html
 <div class="class-name hoge-class">
