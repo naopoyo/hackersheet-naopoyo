@@ -15,7 +15,7 @@ tags: ["Angular"]
 
 trueの場合、有効化
 
-### 出力されるHTML
+### [ngClass]で出力されるHTML
 
 ```html
 <div class="class-name hoge-class">
