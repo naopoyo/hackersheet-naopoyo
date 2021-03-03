@@ -91,3 +91,9 @@ docker rmi $(docker images -q)
 
 全てのイメージを削除
 
+```
+docker rmi $(docker images -f "dangling=true" -q)
+```
+
+<none>なイメージを削除
+
