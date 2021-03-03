@@ -22,4 +22,4 @@ tags: ["開発環境"]
 }
 ```
 
-db/schema.rbが除外されない時は`"forceExclusion": true`
+`"forceExclusion": true` を指定しないとlintでdb/schema.rbが除外されない。
