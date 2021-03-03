@@ -4,6 +4,8 @@ slug: "ljyexir"
 tags: ["Angular"]
 ---
 
+# mat-tab のヘッダーを固定する
+
 Angular Materialのタブコンポーネントのヘッダー部分を固定するためのCSS。
 
 ```css
