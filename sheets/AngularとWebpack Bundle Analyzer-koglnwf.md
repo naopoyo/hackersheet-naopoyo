@@ -5,6 +5,8 @@ slug: "koglnwf"
 
 # AngularとWebpack Bundle Analyzer
 
+バンドルファイルの容量を可視化するWebpack Bundle AnalyzerをAngularでつかう。
+
 ## インストール
 
 ```
