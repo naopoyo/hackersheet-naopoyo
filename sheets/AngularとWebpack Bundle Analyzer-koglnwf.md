@@ -1,6 +1,7 @@
 ---
 name: "AngularとWebpack Bundle Analyzer"
 slug: "koglnwf"
+tags: ["Angular"]
 ---
 
 # AngularとWebpack Bundle Analyzer
