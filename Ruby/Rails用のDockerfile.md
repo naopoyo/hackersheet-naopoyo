@@ -1,6 +1,7 @@
 ---
 name: "Rails用のDockerfile"
 slug: "vhaualb"
+tags: ["Ruby"]
 ---
 
 # Rails用のDockerfile
