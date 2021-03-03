@@ -5,6 +5,11 @@ tags: ["開発環境"]
 ---
 
 # VSCode Ruby Extension
+
+## 公式
+
+[Ruby - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
+
 ## settings.json
 
 ```json
