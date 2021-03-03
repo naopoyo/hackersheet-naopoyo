@@ -1,6 +1,7 @@
 ---
 name: "VSCode Ruby Extension"
 slug: "eeitltd"
+tags: ["開発環境"]
 ---
 
 # VSCode Ruby Extension
