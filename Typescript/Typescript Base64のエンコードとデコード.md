@@ -1,7 +1,7 @@
 ---
 name: "TypescriptのBase64のエンコードとデコード"
 slug: "bvtrkwt"
-tags: ["Typescript"]
+tags: ["Typescript", "Javascript"]
 ---
 
 # TypescriptのBase64のエンコードとデコード
@@ -45,33 +45,29 @@ Javascriptだけで行う場合は以下。
 ### エンコード
 
 ```typescript
-var encodedData = window.btoa("Hello, world");
+var encodedData = window.btoa("Hello, world")
 ```
 
 ### デコード
 
 ```typescript
-var decodedData = window.atob(encodedData);
+var decodedData = window.atob(encodedData)
 ```
 
 ### ユニコードの文字列を扱う場合
 
-unescapeとescapeは非推奨。
+btoaとatobはASCII文字列しか対応していないので、ユニコードの文字列を扱う場合は、以下のように。**unescapeとescapeは非推奨**。
 
 #### エンコード
 
 ```typescript
-function utf8_to_b64(str) {
-  return window.btoa(unescape(encodeURIComponent(str)))
-}
+var encodedData = window.btoa(unescape(encodeURIComponent(str)))
 ```
 
 #### デコード
 
 ```typescript
-function b64_to_utf8(str) {
-  return decodeURIComponent(escape(window.atob(str)));
-}
+var decodedData = decodeURIComponent(escape(window.atob(str)))
 ```
 
 
