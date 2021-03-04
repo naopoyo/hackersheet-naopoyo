@@ -30,6 +30,9 @@ const encodedData = Buffer.from('Hello, world').toString('base64')
 const decodedData = Buffer.from(encodedData, 'base64').toString()
 ```
 
+
+***
+
 ## btoa / atob
 
 Javascriptだけで行う場合は以下。
