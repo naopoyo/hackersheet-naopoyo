@@ -8,9 +8,13 @@ tags: ["Typescript"]
 
 Tytpescript/JavascriptでBase64のエンコードとデコードの方法。
 
+
+----------
+
+
 ## Buffer
 
-Node.jsの場合は、Bufferを使える
+Node.jsの場合は、Bufferを使える。
 
 ### import
 
@@ -31,7 +35,8 @@ const decodedData = Buffer.from(encodedData, 'base64').toString()
 ```
 
 
-***
+----------
+
 
 ## btoa / atob
 
@@ -51,7 +56,7 @@ var decodedData = window.atob(encodedData);
 
 ### ユニコードの文字列を扱う場合
 
-escapeとunescapeは非推奨
+unescapeとescapeは非推奨。
 
 #### エンコード
 
