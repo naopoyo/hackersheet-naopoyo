@@ -15,13 +15,9 @@ brew install zsh
 
 ## /etc/shells を編集
 
-```
-vi /etc/shells
-```
-
 ログインシェルにできるプログラムをフルパスで記述するファイル。
 
-viで以下が表示されるので、/usr/local/bin/zshを追記。
+/usr/local/bin/zshを追記。
 
 ```bash
 # List of acceptable shells for chpass(1).
