@@ -45,7 +45,7 @@ Javascriptだけで行う場合は以下。
 ### エンコード
 
 ```typescript
-var encodedData = window.btoa("Hello, world")
+var encodedData = window.btoa('Hello, world')
 ```
 
 ### デコード
@@ -61,13 +61,13 @@ btoaとatobはASCII文字列しか対応していないので、ユニコード�
 #### エンコード
 
 ```typescript
-var encodedData = window.btoa(unescape(encodeURIComponent(str)))
+var encodedData = window.btoa(unescape(encodeURIComponent('こんにちは')))
 ```
 
 #### デコード
 
 ```typescript
-var decodedData = decodeURIComponent(escape(window.atob(str)))
+var decodedData = decodeURIComponent(escape(window.atob(encodedData)))
 ```
 
 
