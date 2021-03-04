@@ -56,7 +56,7 @@ var decodedData = window.atob(encodedData)
 
 ### ユニコードの文字列を扱う場合
 
-btoaとatobはASCII文字列しか対応していないので、ユニコードの文字列を扱う場合は、以下のように。**unescapeとescapeは非推奨**。
+btoaとatobはASCII文字列しか対応していないので、ユニコードの文字列を扱う場合は以下のように。**unescapeとescapeは非推奨**。
 
 #### エンコード
 
