@@ -1,3 +1,8 @@
+---
+name: "k9sで便利なKubernetes CLI管理"
+slug: "pagzypo"
+---
+
 # k9sで便利なKubernetes CLI管理
 
 ## 公式
