@@ -1,3 +1,8 @@
+---
+name: "Google Analyticsで自分のIPを除外する"
+slug: "xesfkhd"
+---
+
 # Google Analyticsで自分のIPを除外する
 
 1. 「**管理**」を開く
