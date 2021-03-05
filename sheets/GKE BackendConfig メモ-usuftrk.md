@@ -13,6 +13,11 @@ kind: BackendConfig
 metadata:
   name: my-backend-config
 spec:
+  healthCheck:
+    checkIntervalSec: 30
+    port: 80
+    type: HTTP
+    requestPath: /healthz
   securityPolicy:
     name: "my-cloud-armor-policy"
 ```
