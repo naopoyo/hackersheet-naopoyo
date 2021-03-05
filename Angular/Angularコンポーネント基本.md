@@ -6,23 +6,21 @@ tags: ["Angular"]
 
 # Angularコンポーネント基本
 
-## classを動的に設定
+## classを動的に設定: ngClass
 
 ```html
 <div [ngClass]="{ 'class-name': true, 'hoge-class': true }">
 </div>
 ```
 
-trueの場合、有効化。
-
-[ngClass]で出力されるHTMLは以下。
+trueの場合、有効化。[ngClass]で出力されるHTMLは以下。
 
 ```html
 <div class="class-name hoge-class">
 </div>
 ```
 
-## 条件分岐 (ngIf)
+## 条件分岐: ngIf
 
 ```html
 <ng-container *ngIf="true">
@@ -30,7 +28,7 @@ trueの場合、有効化。
 ```
 
 
-## 条件分岐 (ngSwitch)
+## 条件分岐: ngSwitch
 
 ```html
 <ng-container [ngSwitch]="val">
@@ -44,7 +42,7 @@ trueの場合、有効化。
 ```
 
 
-## 繰り返し
+## 繰り返し: ngFor
 
 ```html
 <ng-container *ngFor="let item of items; let i = index">
