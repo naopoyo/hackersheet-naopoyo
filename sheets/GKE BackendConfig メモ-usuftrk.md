@@ -27,3 +27,9 @@ metadata:
   annotations:
     cloud.google.com/backend-config: '{"default": "my-backend-config"}'
 ```
+
+## 確認
+
+```
+kubectl get backendconfig
+```
