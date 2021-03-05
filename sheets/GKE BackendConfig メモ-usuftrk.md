@@ -14,8 +14,8 @@ metadata:
   name: my-backend-config
 spec:
   healthCheck:
-    checkIntervalSec: 30
-    port: 80
+    checkIntervalSec: 60
+    timeoutSec: 60
     type: HTTP
     requestPath: /healthz
   securityPolicy:
