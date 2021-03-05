@@ -1,6 +1,7 @@
 ---
 name: "Google Analyticsで自分のIPを除外する"
 slug: "xesfkhd"
+tags: ["Web"]
 ---
 
 # Google Analyticsで自分のIPを除外する
