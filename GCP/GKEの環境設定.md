@@ -1,7 +1,7 @@
 ---
 name: "GKEの環境設定"
 slug: "dosdkoq"
-tags: ["GCP"]
+tags: ["GCP", "Kubernetes"]
 ---
 
 ```
