@@ -1,7 +1,7 @@
 ---
 name: "GKE BackendConfig メモ"
 slug: "usuftrk"
-tags: ["GCP"]
+tags: ["GCP", "Kubernetes"]
 ---
 
 # GKE BackendConfig メモ
