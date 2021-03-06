@@ -4,7 +4,7 @@ slug: "pagzypo"
 tags: ["Kubernetes"]
 ---
 
-# k9sで便利なKubernetesのCLI管理
+# k9sで便利になるKubernetesのCLI管理
 
 ## 公式
 
