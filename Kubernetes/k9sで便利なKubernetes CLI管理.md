@@ -1,7 +1,7 @@
 ---
 name: "k9sで便利になるKubernetesのCLI管理"
 slug: "pagzypo"
-tags: ["Kubernetes"]
+tags: ["Kubernetes", "開発環境"]
 ---
 
 # k9sで便利になるKubernetesのCLI管理
