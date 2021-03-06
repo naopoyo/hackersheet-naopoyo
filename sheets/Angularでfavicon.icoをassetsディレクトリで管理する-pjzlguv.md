@@ -11,7 +11,7 @@ favicon.ico、apple-touch-icon.pngなどをルートに置きたい場合、src�
 
 src/assets/root/を作成し、ここにfavicon.icoを置く。
 
-次に、angular.jsonを以下のように。
+次に、angular.jsonのassetsセクションを以下のように。
 
 ```json
 {
