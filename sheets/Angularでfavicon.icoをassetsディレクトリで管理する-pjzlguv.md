@@ -37,4 +37,4 @@ src/assets/root/を作成し、ここにfavicon.icoを置く。
 }
 ```
 
-これでビルド後はfavicon.icoがルートに置かれる。https://example.com/favicon.ico のようにアクセス可能になる。
+これでビルド後はfavicon.icoがルートに置かれるので https://example.com/favicon.ico のようにアクセス可能になる。
