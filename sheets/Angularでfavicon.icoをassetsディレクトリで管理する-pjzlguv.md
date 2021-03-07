@@ -1,7 +1,7 @@
 ---
 name: "Angularでfavicon.icoをassetsディレクトリで管理する"
 slug: "pjzlguv"
-tags: ["Angluar"]
+tags: ["Angular"]
 ---
 
 # Angularでfavicon.icoをassetsディレクトリで管理する
