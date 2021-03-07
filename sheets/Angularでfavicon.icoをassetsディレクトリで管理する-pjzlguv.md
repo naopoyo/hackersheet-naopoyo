@@ -6,7 +6,7 @@ tags: ["Angluar"]
 
 # Angularでfavicon.icoをassetsディレクトリで管理する
 
-favicon.ico、apple-touch-icon.pngなどをルートに置きたい場合、src直下に置いていくと邪魔なのでassetsディレクトリに置いていきたい場合。
+favicon.ico、apple-touch-icon.pngなどをルートで公開したい場合、src直下に置いていくと邪魔なのでassetsディレクトリ以下で管理する方法。
 
 ----------
 
