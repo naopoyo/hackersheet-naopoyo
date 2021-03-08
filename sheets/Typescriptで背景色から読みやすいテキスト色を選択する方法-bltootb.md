@@ -1,6 +1,7 @@
 ---
 name: "Typescriptで背景色から読みやすいテキスト色を選択する方法"
 slug: "bltootb"
+tags: ["Typescript"]
 ---
 
 # Typescriptで背景色から読みやすいテキスト色を選択する方法
