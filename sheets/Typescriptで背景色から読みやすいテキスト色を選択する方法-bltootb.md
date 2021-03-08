@@ -6,9 +6,13 @@ tags: ["Typescript"]
 
 # Typescriptで背景色から読みやすいテキスト色を選択する方法
 
+## wcag-contrastをインストール
+
 ```
 npm i --save wcag-contrast @types/wcag-contrast  
 ```
+
+## サンプルコード
 
 ```typescript
 import { hex } from 'wcag-contrast'
