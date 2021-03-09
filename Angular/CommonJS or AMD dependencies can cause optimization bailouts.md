@@ -1,6 +1,7 @@
 ---
 name: "CommonJS or AMD dependencies can cause optimization bailouts."
 slug: "nlybkxh"
+tags: ["Angular"]
 ---
 
 # CommonJS or AMD dependencies can cause optimization bailouts.
