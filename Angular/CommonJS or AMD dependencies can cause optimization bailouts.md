@@ -11,7 +11,7 @@ Warning: /path/to depends on 'XXX'. CommonJS or AMD dependencies can cause optim
 For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
 ```
 
-Angularのビルド時に上記のようなWarningが出る場合はangular.jsonの**allowedCommonJsDependencies**を次のように修正する。
+Angularのビルド時に上記Warningが出る場合はangular.jsonの**allowedCommonJsDependencies**を次のように修正する。
 
 ```json
 {
