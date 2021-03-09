@@ -12,3 +12,7 @@ tags: ["Ruby"]
 install: --no-document
 update: --no-document
 ```
+
+## 補足
+
+`–no-ri` `–no-rdoc` はRubyGems 3.0.1から廃止
