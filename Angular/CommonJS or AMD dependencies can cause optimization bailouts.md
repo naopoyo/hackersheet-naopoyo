@@ -24,3 +24,7 @@ Angularでビルド時に上記のようなWarningが出る場合はangular.json
   }
 }
 ```
+
+## 解説
+
+- CommonJS形式のモジュールを読み込むと表示される警告
