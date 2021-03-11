@@ -7,7 +7,7 @@ slug: "vjmmbys"
 
 ```typescript
 const data = { query: 'xxxx', page: 1 }
-const result = []
+let result = []
 for (let d in data)
   result.push(encodeURIComponent(d) + '=' + encodeURIComponent(data[d]))
 result.join('&')
