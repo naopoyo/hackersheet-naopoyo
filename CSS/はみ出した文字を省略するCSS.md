@@ -6,18 +6,9 @@ tags: ["CSS"]
 
 # はみ出した文字を省略するCSS
 
-```scss
+```css
 text-overflow: ellipsis;
 ```
-
-```scss
-overflow: hidden;
-```
-
-```scss
-white-space: nowrap;
-```
-
 
 ## 例
 
