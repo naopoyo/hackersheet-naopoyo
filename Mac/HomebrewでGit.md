@@ -4,15 +4,21 @@ slug: "yczqcsa"
 tags: ["Mac", "Git"]
 ---
 
+# HomebrewでGitをインストール
+
+## インストール
+
+```
+brew install git
+```
+
+## アップデート
+
 ```
 brew upgrade git
 ```
 
-アップデート
+## HomebrewのGitのパス
 
-```
 /usr/local/bin/git
-```
-
-HomebrewのGitのパス
 
