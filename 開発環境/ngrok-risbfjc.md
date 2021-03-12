@@ -27,3 +27,9 @@ brew install --cask ngrok
 ## 設定ファイルのパス
 
 ~/.ngrok2/ngrok.yml
+
+## 使い方
+
+```
+ngrok http 80
+```
