@@ -1,5 +1,5 @@
 ---
-name: "HomebrewでGit"
+name: "HomebrewでGitをインストール"
 slug: "yczqcsa"
 tags: ["Mac", "Git"]
 ---
