@@ -23,10 +23,12 @@ tags: ["開発環境"]
 brew install --cask ngrok
 ```
 
+## Authtokenを設定
 
-## 設定ファイルのパス
+1. [ダッシュボードのYour Authtoken](https://dashboard.ngrok.com/get-started/your-authtoken)でAuthtokenを取得
+2. `ngrok authtoken XXXX` を実行して設定
 
-~/.ngrok2/ngrok.yml
+~/.ngrok2/ngrok.yml に設定される
 
 ## 使い方
 
