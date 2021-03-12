@@ -6,21 +6,21 @@ tags: ["GCP"]
 
 # gcloud環境設定
 
+## プロジェクトIDを設定
+
 ```
 gcloud config set project [PROJECT_ID]
 ```
 
-プロジェクトIDを設定
+## ゾーンを設定
 
 ```
 gcloud config set compute/zone [ZONE_NAME]
 ```
 
-ゾーンを設定
+## 設定確認
 
 ```
 gcloud config list
 ```
-
-設定確認
 
