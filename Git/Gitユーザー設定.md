@@ -45,3 +45,15 @@ git config --local user.email "[EMAIL]"
 ```
 git config user.email
 ```
+
+-----
+
+## グローバルな設定を確認する
+
+```
+git config --list --global
+```
+
+```
+cat ~/.gitconfig
+```
