@@ -19,6 +19,8 @@ git config --global user.name "[USERNAME]"
 git config user.name
 ```
 
+-----
+
 ## メールアドレス
 
 ### 設定
