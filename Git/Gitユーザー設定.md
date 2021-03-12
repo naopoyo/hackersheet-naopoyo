@@ -1,6 +1,7 @@
 ---
 name: "Gitユーザー設定"
 slug: "lupzxqk"
+tags: ["Git"]
 ---
 
 # Gitユーザー設定
