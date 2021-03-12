@@ -6,7 +6,7 @@ tags: ["Git"]
 
 # Gitユーザー設定
 
-全体の設定の場合は `--global`、リポジトリ専用の場合は `--local`。
+全体の設定は `--global`、リポジトリ専用の設定は `--local`。
 
 ## ユーザー名
 
@@ -48,7 +48,7 @@ git config user.email
 
 -----
 
-## グローバルな設定を確認する
+## 全体の設定を確認する
 
 ```
 git config --list --global
