@@ -1,7 +1,7 @@
 ---
 name: "HomebrewでGit"
 slug: "yczqcsa"
-tags: ["Mac"]
+tags: ["Mac", "Git"]
 ---
 
 ```
