@@ -1,10 +1,12 @@
 ---
-name: "ngrok"
+name: "ngrokのはじめかた"
 slug: "risbfjc"
 tags: ["開発環境"]
 ---
 
-# ngrok
+# ngrokのはじめかた
+
+## ngrokとは
 
 ローカル環境を外部公開できるサービス。
 
