@@ -26,7 +26,11 @@ brew install --cask ngrok
 ## Authtokenを設定
 
 1. [ダッシュボードのYour Authtoken](https://dashboard.ngrok.com/get-started/your-authtoken)でAuthtokenを取得
-2. `ngrok authtoken XXXX` を実行して設定
+2. 次のコマンドを実行して設定
+
+```
+ngrok authtoken [Authtoken]
+```
 
 ~/.ngrok2/ngrok.yml に設定される
 
