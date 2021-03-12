@@ -16,15 +16,11 @@ Gemfileが作られる
 
 ## Gemfileを修正
 
-```
-vi Gemfile
-```
-
 ```ruby
 gem 'rails'
 ```
 
-Gemfileのコメントをはずす
+Gemfileの上記のコメントをはずす
 
 ## bundle install
 
@@ -32,11 +28,11 @@ Gemfileのコメントをはずす
 bundle install --path vendor/bundle --jobs=4
 ```
 
+bundle install mysql2 のために以下を実行
+
 ```
 bundle config --local build.mysql2 "--with-ldflags=-L/usr/local/opt/openssl/lib"
 ```
-
-bundle install mysql2 のために
 
 ## rails new
 
