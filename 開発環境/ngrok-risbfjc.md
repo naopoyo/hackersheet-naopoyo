@@ -32,7 +32,7 @@ brew install --cask ngrok
 ngrok authtoken [Authtoken]
 ```
 
-~/.ngrok2/ngrok.yml に設定される
+💡 この設定は `~/.ngrok2/ngrok.yml` に保存されている
 
 ## 使い方
 
