@@ -5,6 +5,10 @@ slug: "xdwiyvj"
 
 # KeepassXCでパスワード管理
 
+## 公式サイト
+
+[KeePassXC Password Manager](https://keepassxc.org/)
+
 ## Homebrewでインストール
 
 ```
