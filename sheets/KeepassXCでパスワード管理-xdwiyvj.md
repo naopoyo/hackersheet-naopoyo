@@ -1,5 +1,5 @@
 ---
-name: "KeepassXCでパスワード管理"
+name: "KeePassXCでパスワード管理"
 slug: "xdwiyvj"
 tags: ["開発環境"]
 ---
