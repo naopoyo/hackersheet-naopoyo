@@ -1,6 +1,7 @@
 ---
 name: "KeepassXCでパスワード管理"
 slug: "xdwiyvj"
+tags: ["開発環境"]
 ---
 
 # KeepassXCでパスワード管理
