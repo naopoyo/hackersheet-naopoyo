@@ -4,7 +4,7 @@ slug: "xdwiyvj"
 tags: ["開発環境"]
 ---
 
-# KeepassXCでパスワード管理
+# KeePassXCでパスワード管理
 
 ## 公式サイト
 
