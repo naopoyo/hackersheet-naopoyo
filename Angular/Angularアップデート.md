@@ -1,5 +1,5 @@
 ---
-name: "Angular アップデート"
+name: "Angularアップデート"
 slug: "crahfnx"
 tags: ["Angular"]
 ---
