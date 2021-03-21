@@ -1,5 +1,5 @@
 ---
-name: "Homebrew"
+name: "Homebrewのはじめかた"
 slug: "kyqkdgj"
 tags: ["Mac"]
 ---
