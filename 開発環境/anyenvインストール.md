@@ -12,6 +12,14 @@ tags: ["開発環境"]
 brew install anyenv
 ```
 
+## 初期化
+
+```
+anyenv install --init
+```
+
+~/.configが作成される。
+
 ## .zshrc修正
 
 以下を~/.zshrcに追記。
@@ -24,12 +32,6 @@ eval "$(anyenv init -)"
 
 ```
 exec $SHELL -l
-```
-
-## 初期化
-
-```
-anyenv install --init
 ```
 
 ## インストール可能なenvを確認
