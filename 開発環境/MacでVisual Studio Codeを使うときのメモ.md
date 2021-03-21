@@ -9,7 +9,7 @@ tags: ["開発環境"]
 ## Homebrew でインストール
 
 ```
-brew cask install visual-studio-code
+brew install --cask visual-studio-code
 ```
 
 ## 拡張機能
