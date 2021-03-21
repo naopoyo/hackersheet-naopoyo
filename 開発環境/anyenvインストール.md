@@ -12,11 +12,21 @@ tags: ["開発環境"]
 brew install anyenv
 ```
 
-## 初期化
+## .zshrc修正
+
+以下を~/.zshrcに追記。
 
 ```
-anyenv init
+eval "$(anyenv init -)"
 ```
+
+## シェルを再起動
+
+```
+exec $SHELL -l
+```
+
+## 初期化
 
 ```
 anyenv install --init
