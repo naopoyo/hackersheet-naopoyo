@@ -1,6 +1,7 @@
 ---
 name: "M1 MacでRosetta2で動作しているか確認"
 slug: "etrblrj"
+tags: ["Mac"]
 ---
 
 # M1 MacでRosetta2で動作しているか確認
