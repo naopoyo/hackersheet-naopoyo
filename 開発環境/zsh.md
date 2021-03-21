@@ -17,7 +17,7 @@ brew install zsh
 
 ログインシェルにできるプログラムをフルパスで記述するファイル。
 
-/usr/local/bin/zshを追記。
+`/usr/local/bin/zsh` または `/opt/homebrew/bin/zsh` を追記。
 
 ```bash
 # List of acceptable shells for chpass(1).
@@ -30,6 +30,7 @@ brew install zsh
 /bin/tcsh
 /bin/zsh
 /usr/local/bin/zsh # 追記
+/opt/homebrew/bin/zsh # 追記
 ```
 
 
