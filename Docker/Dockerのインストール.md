@@ -9,6 +9,6 @@ brew install docker
 ```
 
 ```
-brew cask install docker
+brew install --cask docker
 ```
 
