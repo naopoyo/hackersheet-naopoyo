@@ -15,7 +15,7 @@ brew install zsh
 
 ## /etc/shells を編集
 
-ログインシェルにできるプログラムをフルパスで記述するファイル。
+ログインシェルにできるプログラムをフルパスで記述するファイル。**sudoで開く**。
 
 `/usr/local/bin/zsh` または `/opt/homebrew/bin/zsh` を追記。
 
