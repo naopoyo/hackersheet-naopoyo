@@ -4,7 +4,7 @@ slug: "kyqkdgj"
 tags: ["Mac"]
 ---
 
-# Homebrew
+# Homebrewのはじめかた
 
 ## インストール
 
@@ -12,6 +12,11 @@ tags: ["Mac"]
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
+.zshrc
+
+```
+export PATH="/opt/homebrew/bin:$PATH"
+```
 
 ## アップデート
 
