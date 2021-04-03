@@ -8,4 +8,4 @@ tags: ["Mac"]
 
 1. `Command` + `Space` でSpotlight検索起動
 2. 「アクティビティモニタ.app」を起動
-3. アーキテクチャが「Intel」の場合、Rosetta2
+3. アーキテクチャが「Intel」の場合は**Rosetta2**
