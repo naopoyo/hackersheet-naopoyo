@@ -1,6 +1,7 @@
 ---
 name: "angular-eslint"
 slug: "cpywyhs"
+tags: ["Angular"]
 ---
 
 # angular-eslint
