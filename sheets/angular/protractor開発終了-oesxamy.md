@@ -1,6 +1,7 @@
 ---
 name: "angular/protractor開発終了"
 slug: "oesxamy"
+tags: ["Angular"]
 ---
 
 # angular/protractor開発終了
