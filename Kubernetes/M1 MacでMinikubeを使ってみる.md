@@ -1,6 +1,7 @@
 ---
 name: "M1 MacでMinikubeを使ってみる"
 slug: "ryfmggz"
+tags: ["Kubernetes"]
 ---
 
 # M1 MacでMinikubeを使ってみる
