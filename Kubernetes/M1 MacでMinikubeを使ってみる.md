@@ -1,3 +1,8 @@
+---
+name: "M1 MacでMinikubeを使ってみる"
+slug: "ryfmggz"
+---
+
 # M1 MacでMinikubeを使ってみる
 
 ## Minikubeをインストール
