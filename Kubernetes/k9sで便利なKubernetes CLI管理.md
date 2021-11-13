@@ -14,7 +14,7 @@ tags: ["Kubernetes", "開発環境"]
 ## インストール
 
 ```
-brew install derailed/k9s/k9s
+brew install k9s
 ```
 
 ## 起動
