@@ -74,6 +74,9 @@ git remote set-head origin master
 
 HEAD設定
 
+```
+git fetch --prune
+```
 
 ## リモートリポジトリから変更を取り込む
 
