@@ -60,7 +60,7 @@ Fetching latest versions of selected plugins...
 ```
 {
   "scripts": {
-    "generate": "graphql-codegen --config codegen.yml"
+    "generate": "graphql-codegen --config codegen.yaml"
   }
 }
 ```
