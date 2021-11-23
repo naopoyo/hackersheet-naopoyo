@@ -53,7 +53,7 @@ Fetching latest versions of selected plugins...
 
 設定後に `npm i` でプラグインがインストールされる。
 
-### 補足1:　What script in package.json should run the codegen?
+### 補足1: What script in package.json should run the codegen?
 
 「What script in package.json should run the codegen?」を「generate」にすると、package.jsonに以下が追加される。
 
