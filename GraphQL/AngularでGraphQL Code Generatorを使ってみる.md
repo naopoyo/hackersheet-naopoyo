@@ -33,8 +33,7 @@ npx graphql-codegen init
 ? What type of application are you building? Application built with Angular
 ? Where is your schema?: (path or url) http://localhost:3000/graphql
 ? Where are your operations and fragments?: src/**/*.gql
-? Pick plugins: TypeScript (required by other typescript plugins), TypeScript Operations (operations and fragments), TypeScript Apollo Angular (typed GQL serv
-ices)
+? Pick plugins: TypeScript (required by other typescript plugins), TypeScript Operations (operations and fragments), TypeScript Apollo Angular (typed GQL services)
 ? Where to write the output: src/generated/graphql.ts
 ? Do you want to generate an introspection file? No
 ? How to name the config file? codegen.yaml
