@@ -1,7 +1,7 @@
 ---
 name: "AngularでGraphQL Code Generatorを使ってみる"
 slug: "jdkocjs"
-tags: ["GraphQL"]
+tags: ["GraphQL", "Angular"]
 ---
 
 # AngularでGraphQL Code Generatorを使ってみる
