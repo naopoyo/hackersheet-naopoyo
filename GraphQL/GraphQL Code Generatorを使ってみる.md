@@ -1,3 +1,8 @@
+---
+name: "GraphQL Code Generatorを使ってみる"
+slug: "jdkocjs"
+---
+
 # GraphQL Code Generatorを使ってみる
 
 ## インストール
