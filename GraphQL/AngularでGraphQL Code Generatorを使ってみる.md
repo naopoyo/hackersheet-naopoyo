@@ -13,18 +13,20 @@ npm i --save graphql
 ```
 
 ```
-npm i --save-dev @graphql-codegen/cli
-```
-
-```
-npm i --save-dev @graphql-codegen/typescript
+npm i --save-dev @graphql-codegen/cli @graphql-codegen/typescript
 ```
 
 ### 初期設定
 
+コマンド:
+
 ```
 npx graphql-codegen init
 ```
+
+コマンドを実行すると、CLIで設定を進めていく必要がある。
+
+実行結果:
 
 ```
     Welcome to GraphQL Code Generator!
