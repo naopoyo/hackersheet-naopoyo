@@ -1,10 +1,16 @@
 ---
-name: "Rails puma用nginx.conf"
+name: "Rails puma"
 slug: "vymjnmg"
 tags: ["Ruby"]
 ---
 
-# Rails puma用nginx.conf
+# Rails puma
+
+## puma
+
+[A Fast, Concurrent Web Server for Ruby & Rack - Puma](https://puma.io/)
+
+## nginx
 
 ```nginx
 upstream puma {
