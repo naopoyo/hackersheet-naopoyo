@@ -1,3 +1,8 @@
+---
+name: "Laravelメモ"
+slug: "lpugtvz"
+---
+
 # Laravelメモ
 
 ## プロジェクト作成
