@@ -1,6 +1,7 @@
 ---
 name: "Laravelメモ"
 slug: "lpugtvz"
+tags: ["PHP", "Laravel"]
 ---
 
 # Laravelメモ
