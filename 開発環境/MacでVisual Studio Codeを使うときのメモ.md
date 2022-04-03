@@ -27,14 +27,16 @@ brew install --cask visual-studio-code
 
 ## ショートカット
 
-| キー                              | 説明               |
-| ------------------------------- | ---------------- |
-| `⌃(control)` + `` ` ``          | ターミナルを開く         |
-| `⌥(option)` + `⇧(shift)` + `F`  | コードフォーマット        |
-| `⌘(command)` + `K` → `V`        | Markdown Preview |
-| `⌃(control)` + `Q` → ⌃ + `Q`    | Table Mode切り替え   |
-| `⌘(command)` + `P`              | クイックオープン         |
-| `⌘(command)` + `⇧(shift)` + `P` | コマンドパレット         |
+| キー                                      | 説明               |
+| --------------------------------------- | ---------------- |
+| `⌃(control)` + `` ` ``                  | ターミナルを開く         |
+| `⌥(option)` + `⇧(shift)` + `F`          | コードフォーマット        |
+| `⌘(command)` + `K` → `V`                | Markdown Preview |
+| `⌃(control)` + `Q` → `⌃(control)` + `Q` | Table Mode切り替え   |
+| `⌘(command)` + `P`                      | クイックオープン         |
+| `⌘(command)` + `⇧(shift)` + `P`         | コマンドパレット         |
+| `⌃(control)` + `R`                      | 最近開いたフォルダを表示     |
+| `⌘(command)` + `⇧(shift)` + `N`         | 新しいウィンドウを開く      |
 
 ## 設定
 
