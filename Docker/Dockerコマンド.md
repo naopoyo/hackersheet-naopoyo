@@ -8,92 +8,90 @@ tags: ["Docker"]
 
 ## レジストリ操作
 
+### Docker Hub のイメージを検索
+
 ```
 docker search
 ```
 
-Docker Hub のイメージを検索
+### レジストリからイメージやリポジトリを取得
 
 ```
 docker pull
 ```
 
-レジストリからイメージやリポジトリを取得
-
-
 ## コンテナ操作
+
+### すべてのコンテナを削除
 
 ```
 docker rm `docker ps -a -q`
 ```
 
-すべてのコンテナを削除
+### コンテナを削除
 
 ```
 docker rm
 ```
 
-コンテナを削除
+### コンテナをすべて停止して削除
 
 ```
 docker ps -aq | xargs docker stop | xargs docker rm
 ```
 
-コンテナをすべて停止して削除
+### コンテナにログイン
 
 ```
 docker exec -it [CONTAINER_ID] /bin/sh
 ```
 
-コンテナにログイン
+### コンテナを起動
 
 ```
 docker run -itd [IMAGE_ID]
 ```
 
-コンテナを起動
+### 起動中のコンテナ一覧
 
 ```
 docker ps
 ```
 
-起動中のコンテナ一覧
+### 起動してログイン
 
 ```
 docker run --rm -it [CONTAINER_ID] sh 
 ```
 
-起動してログイン
-
 ## イメージ操作
+
+### イメージ一覧
 
 ```
 docker images
 ```
 
-イメージ一覧
+### イメージの作成
 
 ```
 docker build
 ```
 
-イメージの作成
+### イメージ削除
 
 ```
 docker rmi [IMAGE_ID]
 ```
 
-イメージ削除
+### 全てのイメージを削除
 
 ```
 docker rmi $(docker images -q)
 ```
 
-全てのイメージを削除
+### <none>なイメージを削除
 
 ```
 docker rmi $(docker images -f "dangling=true" -q)
 ```
-
-<none>なイメージを削除
-
