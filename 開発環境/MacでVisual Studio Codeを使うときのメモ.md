@@ -1,7 +1,7 @@
 ---
 name: "MacでVisual Studio Codeを使うときのメモ"
 slug: "klivycc"
-tags: ["開発環境"]
+tags: ["開発環境", "VSCode"]
 ---
 
 # MacでVisual Studio Codeを使うときのメモ
@@ -14,24 +14,27 @@ brew install --cask visual-studio-code
 
 ## 拡張機能
 
-- **vscode-icons**  
+- **vscode-icons** (vscode-icons-team.vscode-icons)  
   ファイルツリーにアイコンを表示
-- **Prettier**  
+- **Prettier** (esbenp.prettier-vscode)  
   コードフォーマット
-- **Markdown All in One**  
+- **Markdown All in One** (yzhang.markdown-all-in-one)  
   Markdownを便利に
-- **Text Tables**  
+- **Text Tables** (RomanPeshkov.vscode-text-tables)  
   Markdownの表を便利に
+- **Remote - Containers** (ms-vscode-remote.remote-containers)  
+  Dockerのコンテナ内でVSCodeを開いて開発可能に
 
 ## ショートカット
 
-| キー                        | 説明               |
-| ------------------------- | ---------------- |
-| ⌘ + `               | ターミナルを開く         |
-| ⌥ + ⇧ + F        | コードフォーマット        |
-| ⌘ + K → V                 | Markdown Preview |
-| ⌃ + Q → ⌃ + Q | Table Mode切り替え   |
-| ⌘ + P                     | クイックオープン         |
+| キー                              | 説明               |
+| ------------------------------- | ---------------- |
+| `⌃(control)` + `` ` ``          | ターミナルを開く         |
+| `⌥(option)` + `⇧(shift)` + `F`  | コードフォーマット        |
+| `⌘(command)` + `K` → `V`        | Markdown Preview |
+| `⌃(control)` + `Q` → ⌃ + `Q`    | Table Mode切り替え   |
+| `⌘(command)` + `P`              | クイックオープン         |
+| `⌘(command)` + `⇧(shift)` + `P` | コマンドパレット         |
 
 ## 設定
 
@@ -39,4 +42,10 @@ brew install --cask visual-studio-code
 
 ```
 "editor.renderWhitespace": "all",
+```
+
+### 括弧に色を付ける
+
+```
+"editor.bracketPairColorization.enabled": true,
 ```
