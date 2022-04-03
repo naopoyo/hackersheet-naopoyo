@@ -1,5 +1,6 @@
 ---
 name: "Macでスクリーンショットを撮る方法"
+slug: "oafbruv"
 tags: ["Mac"]
 ---
 
