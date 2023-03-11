@@ -40,7 +40,6 @@ brew install --cask visual-studio-code
 | `control` + `` ` ``                | ターミナルを開く         |
 | `option` + `shift` + `F`           | コードフォーマット       |
 | `command` + `K` -> `V`             | Markdown Preview         |
-| `control` + `Q` -> `control` + `Q` | Table Mode切り替え       |
 | `command` + `P`                    | クイックオープン         |
 | `command` + `shift` + `P`          | コマンドパレット         |
 | `control` + `R`                    | 最近開いたフォルダを表示 |
