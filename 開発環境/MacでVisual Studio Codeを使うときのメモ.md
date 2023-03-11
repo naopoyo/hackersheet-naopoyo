@@ -35,15 +35,16 @@ brew install --cask visual-studio-code
 
 ### VS Code
 
-| キー                               | 説明                     |
-| ---------------------------------- | ------------------------ |
-| `control` + `` ` ``                | ターミナルを開く         |
-| `option` + `shift` + `F`           | コードフォーマット       |
-| `command` + `K` -> `V`             | Markdown Preview         |
-| `command` + `P`                    | クイックオープン         |
-| `command` + `shift` + `P`          | コマンドパレット         |
-| `control` + `R`                    | 最近開いたフォルダを表示 |
-| `command` + `shift` + `N`          | 新しいウィンドウを開く   |
+| キー                       | 説明                     |
+| -------------------------- | ------------------------ |
+| `control` + `` ` ``        | ターミナルを開く         |
+| `option` + `shift` + `F`   | コードフォーマット       |
+| `command` + `option` + `F` | 検索・置換               |
+| `command` + `K` -> `V`     | Markdown Preview         |
+| `command` + `P`            | クイックオープン         |
+| `command` + `shift` + `P`  | コマンドパレット         |
+| `control` + `R`            | 最近開いたフォルダを表示 |
+| `command` + `shift` + `N`  | 新しいウィンドウを開く   |
 
 ### Markdown All in One
 
