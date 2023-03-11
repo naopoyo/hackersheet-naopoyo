@@ -1,30 +1,30 @@
 ---
-name: "Gitコマンド"
+name: "Gitコマンドチートシート"
 slug: "tiurlhn"
 tags: ["Git"]
 ---
 
-# Gitコマンド
+# Gitコマンドチートシート
 
 ## ユーザー設定
+
+### ユーザー名設定
 
 ```
 git config --global user.name "[USERNAME]"
 ```
 
-ユーザー名設定
+### メールアドレス設定
 
 ```
 git config --global user.email "[EMAIL]"
 ```
 
-メールアドレス設定
+### ユーザー情報確認
 
 ```
 git config --list --global
 ```
-
-ユーザー情報確認
 
 
 ## ローカルリポジトリ作成
@@ -44,59 +44,63 @@ git commit -m "initial commit"
 
 ## リモートリポジトリ操作
 
+### リモートリポジトリ作成
+
 ```
 git init --bare --share
 ```
 
-リモートリポジトリ作成
+### リモートリポジトリ追加
 
 ```
 git remote add origin [REPOSITORY]
 ```
 
-リモートリポジトリ追加
+### リモートリポジトリ一覧
 
 ```
 git remote -v
 ```
 
-リモートリポジトリ一覧
+### リモートリポジトリ削除
 
 ```
 git remote rm origin
 ```
 
-リモートリポジトリ削除
+### HEAD設定
 
 ```
-git remote set-head origin master
+git remote set-head origin main
 ```
 
-HEAD設定
+### 不要なリモートブランチを削除
 
 ```
-git fetch --prune
+git fetch -p
 ```
+
 
 ## リモートリポジトリから変更を取り込む
+
+### リモートから変更を取り込む
 
 ```
 git fetch
 ```
 
-リモートから変更を取り込む
+### マージ
 
 ```
-git merge origin/master
+git merge origin/main
 ```
 
-マージ
+### git fetch + git merge origin/main
 
 ```
 git pull
 ```
 
-git fetch + git merge origin/master
 
 
 ## リポジトリをコピーする
@@ -112,16 +116,12 @@ git clone [REPOSITORY]
 git status
 ```
 
-現在の状況を確認する
-
 
 ## 差分確認
 
 ```
 git diff
 ```
-
-差分確認
 
 
 ## コミット履歴の確認
@@ -130,11 +130,11 @@ git diff
 git log
 ```
 
+### コミッターも表示
+
 ```
 git log --pretty=full
 ```
-
-コミッターも表示
 
 
 ## 履歴の Author と Commiter を変更する
@@ -146,77 +146,76 @@ git filter-branch -f --env-filter "GIT_AUTHOR_NAME='taro'; GIT_AUTHOR_EMAIL='tar
 
 ## マージ
 
-```
-git checkout master
-```
+`checkout` で移動してから `merge`
 
-マスターブランチに移動してから
+```
+git checkout main
+```
 
 ```
 git merge [BRANCH_NAME]
 ```
 
-マージする
-
 
 ## ブランチ関連
+
+### ブランチ作成
 
 ```
 git branch [BRANCH_NAME]
 ```
 
-ブランチ作成
+### ブランチ確認
 
 ```
 git branch
 ```
 
-ブランチ確認
+### リモートブランチの確認
 
 ```
 git branch --remote
 ```
 
-リモートブランチの確認
+### ブランチ変更
 
 ```
 git checkout [BRANCH_NAME]
 ```
 
-ブランチ変更
+### ブランチ作成してから変更
 
 ```
 git checkout -b [BRANCH_NAME]
 ```
 
-ブランチ作成してから変更
+### ブランチにマスターの変更を取り込む
 
 ```
-git rebase master
+git rebase main
 ```
 
-ブランチにマスターの変更を取り込む
+### ローカルブランチの削除
 
 ```
 git branch -d [BRANCH_NAME]
 ```
 
-ローカルブランチの削除
+### リモートブランチの削除
 
 ```
 git push origin :branch
 ```
 
-リモートブランチの削除
 
 
 ## ファイル操作
 
+### ファイルの移動
+
 ```
 git mv [from] [to]
 ```
-
-ファイルの移動
 
 
 ## コミットのハッシュ値を取得
@@ -225,26 +224,26 @@ git mv [from] [to]
 git rev-parse HEAD
 ```
 
+短縮形:
+
 ```
 git rev-parse --short HEAD
 ```
 
-短縮形
-
 
 ## switch / restore
+
+### ブランチ切り替え
 
 ```
 git switch
 ```
 
-ブランチ切り替え
+### 現在のディレクトリ内のすべてのファイルを復元
 
 ```
 git restore .
 ```
-
-現在のディレクトリ内のすべてのファイルを復元
 
 
 ## GC
