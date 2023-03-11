@@ -1,10 +1,10 @@
 ---
-name: "MacでVisual Studio Codeを使うときのメモ"
+name: "MacでVisual Studio Codeを使うときのおすすめ設定など"
 slug: "klivycc"
 tags: ["開発環境", "VSCode"]
 ---
 
-# MacでVisual Studio Codeを使うときのメモ
+# MacでVisual Studio Codeを使うときのおすすめ設定など
 
 ## Homebrew でインストール
 
@@ -14,29 +14,35 @@ brew install --cask visual-studio-code
 
 ## 拡張機能
 
+- **[GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)** (GitHub.github-vscode-theme)  
+  GitHubのテーマ。`GitHub Dark Dimmed` がおすすめ。
 - **vscode-icons** (vscode-icons-team.vscode-icons)  
-  ファイルツリーにアイコンを表示
+  ファイルツリーにアイコンを表示。
 - **Prettier** (esbenp.prettier-vscode)  
-  コードフォーマット
+  コードフォーマット。
 - **Markdown All in One** (yzhang.markdown-all-in-one)  
-  Markdownを便利に
-- **Text Tables** (RomanPeshkov.vscode-text-tables)  
-  Markdownの表を便利に
-- **Remote - Containers** (ms-vscode-remote.remote-containers)  
-  Dockerのコンテナ内でVSCodeを開いて開発可能に
+  Markdownを便利に使える機能が多数。
+- **[Markdown Table](https://marketplace.visualstudio.com/items?itemName=TakumiI.markdowntable)** (TakumiI.markdowntable)  
+  Markdownの表を整形してくれるなど。
+- **[Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)** (ms-vscode-remote.remote-containers)  
+  VS CodeからDockerコンテナを開発環境にできる。
+- **[Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)** (johnpapa.vscode-peacock)  
+  ワークスペースの色を変更できる。
+- **[Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)** (donjayamanne.githistory)  
+  Gitの履歴閲覧。
 
 ## ショートカット
 
-| キー                                      | 説明               |
-| --------------------------------------- | ---------------- |
-| `⌃(control)` + `` ` ``                  | ターミナルを開く         |
-| `⌥(option)` + `⇧(shift)` + `F`          | コードフォーマット        |
-| `⌘(command)` + `K` → `V`                | Markdown Preview |
-| `⌃(control)` + `Q` → `⌃(control)` + `Q` | Table Mode切り替え   |
-| `⌘(command)` + `P`                      | クイックオープン         |
+| キー                                     | 説明                     |
+| ---------------------------------------- | ------------------------ |
+| `⌃(control)` + `` ` ``                   | ターミナルを開く         |
+| `⌥(option)` + `⇧(shift)` + `F`          | コードフォーマット       |
+| `⌘(command)` + `K` → `V`                | Markdown Preview         |
+| `⌃(control)` + `Q` → `⌃(control)` + `Q` | Table Mode切り替え       |
+| `⌘(command)` + `P`                       | クイックオープン         |
 | `⌘(command)` + `⇧(shift)` + `P`         | コマンドパレット         |
-| `⌃(control)` + `R`                      | 最近開いたフォルダを表示     |
-| `⌘(command)` + `⇧(shift)` + `N`         | 新しいウィンドウを開く      |
+| `⌃(control)` + `R`                       | 最近開いたフォルダを表示 |
+| `⌘(command)` + `⇧(shift)` + `N`         | 新しいウィンドウを開く   |
 
 ## 設定
 
@@ -50,4 +56,12 @@ brew install --cask visual-studio-code
 
 ```
 "editor.bracketPairColorization.enabled": true,
+```
+
+### 等幅フォント
+
+`Osaka-Mono` を追加。
+
+```
+"editor.fontFamily": "'Osaka-Mono', Menlo, Monaco, 'Courier New', monospace",
 ```
