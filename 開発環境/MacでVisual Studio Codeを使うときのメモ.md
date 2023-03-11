@@ -33,16 +33,26 @@ brew install --cask visual-studio-code
 
 ## ショートカット
 
-| キー                                     | 説明                     |
-| ---------------------------------------- | ------------------------ |
-| `⌃(control)` + `` ` ``                   | ターミナルを開く         |
-| `⌥(option)` + `⇧(shift)` + `F`          | コードフォーマット       |
-| `⌘(command)` + `K` → `V`                | Markdown Preview         |
-| `⌃(control)` + `Q` → `⌃(control)` + `Q` | Table Mode切り替え       |
-| `⌘(command)` + `P`                       | クイックオープン         |
-| `⌘(command)` + `⇧(shift)` + `P`         | コマンドパレット         |
-| `⌃(control)` + `R`                       | 最近開いたフォルダを表示 |
-| `⌘(command)` + `⇧(shift)` + `N`         | 新しいウィンドウを開く   |
+### VS Code
+
+| キー                               | 説明                     |
+| ---------------------------------- | ------------------------ |
+| `control` + `` ` ``                | ターミナルを開く         |
+| `option` + `shift` + `F`           | コードフォーマット       |
+| `command` + `K` -> `V`             | Markdown Preview         |
+| `control` + `Q` -> `control` + `Q` | Table Mode切り替え       |
+| `command` + `P`                    | クイックオープン         |
+| `command` + `shift` + `P`          | コマンドパレット         |
+| `control` + `R`                    | 最近開いたフォルダを表示 |
+| `command` + `shift` + `N`          | 新しいウィンドウを開く   |
+
+### Markdown All in One
+
+| キー                      | 説明                 |
+| ------------------------- | -------------------- |
+| `control` + `shift` + `]` | 見出しレベルを上げる |
+| `control` + `shift` + `[` | 見出しレベルを下げる |
+| `control` + `B`           | 太字                 |
 
 ## 設定
 
