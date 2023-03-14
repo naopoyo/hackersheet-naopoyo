@@ -1,6 +1,7 @@
 ---
 name: "Gitのコミットメッセージについて"
 slug: "nbubbrg"
+tags: ["Git"]
 ---
 
 ## Gitのコミットメッセージについて
