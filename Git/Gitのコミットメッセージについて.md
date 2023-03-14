@@ -4,7 +4,9 @@ slug: "nbubbrg"
 tags: ["Git"]
 ---
 
-## Gitのコミットメッセージについて
+# Gitのコミットメッセージについて
+
+## Semantic Commit Messages
 
 Format: `<type>(<scope>): <subject>`
 
