@@ -1,3 +1,8 @@
+---
+name: "Semantic Commit Messages"
+slug: "nbubbrg"
+---
+
 # Semantic Commit Messages
 
 Format: `<type>(<scope>): <subject>`
