@@ -1,9 +1,9 @@
 ---
-name: "Semantic Commit Messages"
+name: "Gitのコミットメッセージについて"
 slug: "nbubbrg"
 ---
 
-## Semantic Commit Messages
+## Gitのコミットメッセージについて
 
 Format: `<type>(<scope>): <subject>`
 
