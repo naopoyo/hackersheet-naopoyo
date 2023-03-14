@@ -3,7 +3,7 @@ name: "Semantic Commit Messages"
 slug: "nbubbrg"
 ---
 
-# Semantic Commit Messages
+## Semantic Commit Messages
 
 Format: `<type>(<scope>): <subject>`
 
@@ -17,6 +17,7 @@ Format: `<type>(<scope>): <subject>`
 | `test`     | 不足しているテストの追加、テストのリファクタリング。プロダクションコードの変更は無し。 |
 | `chore`    | ビルドスクリプトの更新など。プロダクションコードの変更は無し。                         |
 
-参考:
+## 参考
+
 - [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 - [Gitのコミットメッセージの書き方（2023年ver.）](https://zenn.dev/itosho/articles/git-commit-message-2023)
