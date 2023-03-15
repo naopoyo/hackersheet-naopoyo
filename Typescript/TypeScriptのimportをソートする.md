@@ -1,21 +1,25 @@
 ---
 name: "TypeScriptのimportをソートする"
 slug: "bsphcmu"
+tags: ["TypeScript", "VSCode"]
 ---
 
 # TypeScriptのimportをソートする
 
-VS Codeの場合、拡張昨日の[TypeScript Import Sorter](https://marketplace.visualstudio.com/items?itemName=mike-co.import-sorter) (mike-co.import-sorter)をインストールする。
 
-## 設定
+## TypeScript Import Sorter
 
-### 保存時にソート
+VS Codeの場合、拡張機能の[TypeScript Import Sorter](https://marketplace.visualstudio.com/items?itemName=mike-co.import-sorter) (mike-co.import-sorter)をインストールする。
+
+### TypeScript Import Sorterの設定
+
+#### 保存時にソートする
 
 ```json
 "importSorter.generalConfiguration.sortOnBeforeSave": true,
 ```
 
-### セミコロンをつけない
+#### セミコロンをつけない
 
 ```json
 "importSorter.importStringConfiguration.hasSemicolon": false,
