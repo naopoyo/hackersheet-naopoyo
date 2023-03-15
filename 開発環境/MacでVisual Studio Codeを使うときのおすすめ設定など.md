@@ -75,3 +75,9 @@ brew install --cask visual-studio-code
 ```
 "editor.fontFamily": "'Osaka-Mono', Menlo, Monaco, 'Courier New', monospace",
 ```
+
+### 保存時にフォーマット
+
+```
+"editor.formatOnSave": true,
+```
