@@ -24,3 +24,9 @@ VS Codeの場合、拡張機能の[TypeScript Import Sorter](https://marketplace
 ```json
 "importSorter.importStringConfiguration.hasSemicolon": false,
 ```
+
+#### タブのスペースを2個にする
+
+```json
+"importSorter.importStringConfiguration.tabSize": 2,
+```
