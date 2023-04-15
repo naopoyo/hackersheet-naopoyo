@@ -9,8 +9,9 @@ tags: ["AWS", "Terrafrom"]
 以下のモジュールを使用してAWSのVPCを作成する。
 
 - [terraform-aws-modules/vpc/aws | Terraform Registry](https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest)
+- [terraform-aws-modules/vpc/aws | vpc-endpoints Submodule | Terraform Registry](https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest/submodules/vpc-endpoints)
 - [terraform-aws-modules/security-group/aws | Terraform Registry](https://registry.terraform.io/modules/terraform-aws-modules/security-group/aws/1.19.0)
-- [terraform-aws-modules/security-group/aws | Terraform Registry](https://registry.terraform.io/modules/terraform-aws-modules/security-group/aws/1.19.0)
+
 
 ## locals
 
@@ -26,6 +27,7 @@ locals {
   azs                   = slice(data.aws_availability_zones.available.names, 0, 3)
 }
 ```
+
 
 ## VPC
 
@@ -55,6 +57,7 @@ module "vpc" {
   map_public_ip_on_launch = false
 }
 ```
+
 
 ## VPC Endpoint
 
@@ -123,7 +126,7 @@ module "vpc_endpoints_sg" {
       from_port                = 443
       to_port                  = 443
       protocol                 = "tcp"
-      source_security_group_id = module.autoscaling_sg.security_group_id
+      source_security_group_id = xxxxxx
     },
   ]
 
