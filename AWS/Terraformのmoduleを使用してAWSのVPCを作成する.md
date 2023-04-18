@@ -91,7 +91,6 @@ module "vpc_endpoints" {
       service_type = "Gateway"
       service      = "s3"
       route_table_ids = concat(
-        [module.vpc.default_route_table_id],
         module.vpc.public_route_table_ids,
         module.vpc.private_route_table_ids
       )
