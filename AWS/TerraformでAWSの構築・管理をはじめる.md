@@ -10,9 +10,11 @@ tags: ["AWS", "Terrafrom"]
 
 AWSのコンソールでTerraform実行用のIAMユーザーを作成して、アクセスキーとシークレットキーを控えておく。
 
-### ポリシー設定
+### IAMユーザーのポリシー設定
 
-```
+以下のポリシーでこのサンプルは動く。
+
+```json
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -85,7 +87,7 @@ aws_secret_key = "XXXX"
 
 参考: [gitignore/Terraform.gitignore at main · github/gitignore](https://github.com/github/gitignore/blob/main/Terraform.gitignore)
 
-```gitignore
+```
 # Local .terraform directories
 **/.terraform/*
 
@@ -137,7 +139,7 @@ terraform plan -var-file=secrets.tfvars
 ```
 
 上記コマンドを実行後に以下のように表示されたら成功🎉
-****
+
 ```
 Terraform used the selected providers to generate the following execution plan. Resource actions are indicated
 with the following symbols:
