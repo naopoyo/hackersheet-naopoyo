@@ -4,7 +4,7 @@ slug: "bsphcmu"
 tags: ["Typescript", "VSCode"]
 ---
 
-# TypeScriptのimportをソートする
+# Typescriptのimportをソートする
 
 
 ## TypeScript Import Sorter
