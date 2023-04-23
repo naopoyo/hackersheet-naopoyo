@@ -1,10 +1,10 @@
 ---
-name: "Terraformのmoduleを使用してAWSのVPCを作成する"
+name: "Terraformのmoduleを使用してAWSにVPCを作成する"
 slug: "rviftrj"
 tags: ["AWS", "Terraform"]
 ---
 
-# Terraformのmoduleを使用してAWSのVPCを作成する
+# Terraformのmoduleを使用してAWSにVPCを作成する
 
 以下のモジュールを使用してAWSのVPCを作成する。ECSをプライベートなサブネットで実行する場合のために、VPCエンドポイントも作成する。
 
@@ -20,7 +20,7 @@ tags: ["AWS", "Terraform"]
 data "aws_availability_zones" "available" {}
 
 locals {
-  app_name              = "app-name"
+  app_name              = "example-app"
   region                = "us-east-1"
   vpc_name              = "${local.app_name}-vpc"
   vpc_endpoints_sg_name = "${local.app_name}-vpc-endpoints-sg"
