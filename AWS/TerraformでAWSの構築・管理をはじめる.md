@@ -1,7 +1,7 @@
 ---
 name: "TerraformでAWSの構築・管理をはじめる"
 slug: "rhbveyg"
-tags: ["AWS", "Terrafrom"]
+tags: ["AWS", "Terraform"]
 ---
 
 # TerraformでAWSの構築・管理をはじめる

@@ -1,7 +1,7 @@
 ---
 name: "Terraformのmoduleを使用してAWSのVPCを作成する"
 slug: "rviftrj"
-tags: ["AWS", "Terrafrom"]
+tags: ["AWS", "Terraform"]
 ---
 
 # Terraformのmoduleを使用してAWSのVPCを作成する
