@@ -6,7 +6,7 @@ tags: ["AWS", "Terraform", "GitHub"]
 
 # TerraformでAWSにGitHub Actions用のOIDCプロバイダーを作成する
 
-下記ののモジュールを使用する。
+下記のモジュールを使用する。
 
 [terraform-aws-modules/iam/aws | Terraform Registry](https://registry.terraform.io/modules/terraform-aws-modules/iam/aws/latest)
 
@@ -30,7 +30,7 @@ module "iam_github_oidc_provider" {
 
 ## Role
 
-`subjects` は任意のGitHubリポジトリを設定する
+`subjects` は任意のGitHubリポジトリを設定する。
 
 ```terraform
 module "iam_github_oidc_role" {
