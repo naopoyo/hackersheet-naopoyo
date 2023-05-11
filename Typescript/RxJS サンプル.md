@@ -1,7 +1,7 @@
 ---
 name: "RxJSサンプル"
 slug: "cghspad"
-tags: ["Typescript"]
+tags: ["TypeScript"]
 ---
 
 # RxJSサンプル

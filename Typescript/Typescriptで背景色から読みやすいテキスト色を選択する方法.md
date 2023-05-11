@@ -1,10 +1,10 @@
 ---
-name: "Typescriptで背景色から読みやすいテキスト色を選択する方法"
+name: "TypeScriptで背景色から読みやすいテキスト色を選択する方法"
 slug: "bltootb"
-tags: ["Typescript"]
+tags: ["TypeScript"]
 ---
 
-# Typescriptで背景色から読みやすいテキスト色を選択する方法
+# TypeScriptで背景色から読みやすいテキスト色を選択する方法
 
 ## wcag-contrastをインストール
 

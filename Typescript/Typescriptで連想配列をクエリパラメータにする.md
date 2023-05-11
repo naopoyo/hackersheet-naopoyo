@@ -1,10 +1,10 @@
 ---
-name: "Typescriptで連想配列をクエリパラメータにする"
+name: "TypeScriptで連想配列をクエリパラメータにする"
 slug: "vjmmbys"
-tags: ["Typescript"]
+tags: ["TypeScript"]
 ---
 
-# Typescriptで連想配列をクエリパラメータにする
+# TypeScriptで連想配列をクエリパラメータにする
 
 ```typescript
 const data = { query: 'xxxx', page: 1 }

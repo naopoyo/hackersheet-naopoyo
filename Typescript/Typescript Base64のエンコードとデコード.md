@@ -1,10 +1,10 @@
 ---
-name: "TypescriptのBase64のエンコードとデコード"
+name: "TypeScriptのBase64のエンコードとデコード"
 slug: "bvtrkwt"
-tags: ["Typescript", "Javascript"]
+tags: ["TypeScript", "Javascript"]
 ---
 
-# TypescriptのBase64のエンコードとデコード
+# TypeScriptのBase64のエンコードとデコード
 
 Tytpescript/JavascriptでBase64のエンコードとデコードの方法。
 

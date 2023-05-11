@@ -1,11 +1,11 @@
 ---
-name: "Typescript基本"
+name: "TypeScript基本"
 slug: "dcjgzft"
-tags: ["Typescript"]
+tags: ["TypeScript"]
 ---
 
 
-# Typescript基本
+# TypeScript基本
 
 ## イベント中断
 
