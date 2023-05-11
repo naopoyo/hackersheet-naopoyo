@@ -1,10 +1,10 @@
 ---
-name: "Typescriptのimportをソートする"
+name: "TypeScriptのimportをソートする"
 slug: "bsphcmu"
-tags: ["Typescript", "VSCode"]
+tags: ["TypeScript", "VSCode"]
 ---
 
-# Typescriptのimportをソートする
+# TypeScriptのimportをソートする
 
 
 ## TypeScript Import Sorter
