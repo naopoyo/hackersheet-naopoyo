@@ -28,12 +28,23 @@ import { Buffer } from 'buffer'
 const encodedData = Buffer.from('Hello, world').toString('base64')
 ```
 
+URL safeなBase64の場合: (**特定の環境では利用できない**)
+
+```typescript
+const encodedData = Buffer.from('Hello, world').toString('base64url')
+```
+
 ### デコード
 
 ```typescript
 const decodedData = Buffer.from(encodedData, 'base64').toString()
 ```
 
+URL safeなBase64の場合: (**特定の環境では利用できない**)
+
+```typescript
+const decodedData = Buffer.from(encodedData, 'base64url').toString()
+```
 
 ----------
 
