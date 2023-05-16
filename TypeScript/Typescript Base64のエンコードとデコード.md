@@ -6,7 +6,7 @@ tags: ["TypeScript", "Javascript"]
 
 # TypeScriptのBase64のエンコードとデコード
 
-Tytpescript/JavascriptでBase64のエンコードとデコードの方法。
+TypeScript/JavascriptでBase64のエンコードとデコードの方法。
 
 
 ----------
