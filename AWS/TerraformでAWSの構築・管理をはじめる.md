@@ -29,7 +29,7 @@ AWSのコンソールでTerraform実行用のIAMユーザーを作成して、�
 }
 ```
 
-## Homebrewで　TerraformとAWS CLIをインストール
+## HomebrewでTerraformとAWS CLIをインストール
 
 ```
 brew install terraform awscli
