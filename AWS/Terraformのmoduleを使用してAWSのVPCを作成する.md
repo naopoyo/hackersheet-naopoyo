@@ -1,6 +1,7 @@
 ---
 name: "Terraformのmoduleを使用してAWSにVPCを作成する"
 slug: "rviftrj"
+emoji: "🤖"
 tags: ["AWS", "Terraform"]
 ---
 
