@@ -1,7 +1,7 @@
 ---
 name: "Gitのコミットメッセージについて"
 slug: "nbubbrg"
-emoji: "🐙"
+emoji: "💬"
 tags: ["Git"]
 ---
 
