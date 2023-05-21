@@ -1,6 +1,7 @@
 ---
 name: "Dockerコマンド"
 slug: "mfndeef"
+emoji: "🐳"
 tags: ["Docker"]
 ---
 
