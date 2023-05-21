@@ -1,7 +1,8 @@
 ---
 name: "TypeScriptのimportをソートする"
 slug: "bsphcmu"
-tags: ["TypeScript", "VSCode"]
+emoji: "↕️"
+tags: ["VSCode", "TypeScript"]
 ---
 
 # TypeScriptのimportをソートする
