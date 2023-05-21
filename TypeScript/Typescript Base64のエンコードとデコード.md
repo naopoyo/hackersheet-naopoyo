@@ -1,7 +1,8 @@
 ---
 name: "TypeScriptのBase64のエンコードとデコード"
 slug: "bvtrkwt"
-tags: ["TypeScript", "Javascript"]
+emoji: ""
+tags: ["Javascript", "TypeScript"]
 ---
 
 # TypeScriptのBase64のエンコードとデコード
