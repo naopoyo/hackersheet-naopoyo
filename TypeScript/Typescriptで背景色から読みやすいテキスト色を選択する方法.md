@@ -1,6 +1,7 @@
 ---
 name: "TypeScriptで背景色から読みやすいテキスト色を選択する方法"
 slug: "bltootb"
+emoji: "🚛"
 tags: ["TypeScript"]
 ---
 
