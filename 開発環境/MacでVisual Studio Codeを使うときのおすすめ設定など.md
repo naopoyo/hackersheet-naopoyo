@@ -1,6 +1,7 @@
 ---
 name: "MacでVisual Studio Codeを使うときのおすすめ設定など"
 slug: "klivycc"
+emoji: "🔵"
 tags: ["開発環境", "VSCode"]
 ---
 
