@@ -1,9 +1,9 @@
 ---
 name: "TypeScript基本"
 slug: "dcjgzft"
+emoji: "🔰"
 tags: ["TypeScript"]
 ---
-
 
 # TypeScript基本
 
