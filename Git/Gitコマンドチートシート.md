@@ -1,6 +1,7 @@
 ---
 name: "Gitコマンドチートシート"
 slug: "tiurlhn"
+emoji: "💻"
 tags: ["Git"]
 ---
 
