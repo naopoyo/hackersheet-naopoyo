@@ -1,6 +1,7 @@
 ---
 name: "TypeScriptで連想配列をクエリパラメータにする"
 slug: "vjmmbys"
+emoji: "🔠"
 tags: ["TypeScript"]
 ---
 
