@@ -1,6 +1,7 @@
 ---
 name: "RxJSサンプル"
 slug: "cghspad"
+emoji: "🐬"
 tags: ["TypeScript"]
 ---
 
