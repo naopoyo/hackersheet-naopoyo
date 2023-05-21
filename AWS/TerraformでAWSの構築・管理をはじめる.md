@@ -1,6 +1,7 @@
 ---
 name: "TerraformでAWSの構築・管理をはじめる"
 slug: "rhbveyg"
+emoji: "📙"
 tags: ["AWS", "Terraform"]
 ---
 
