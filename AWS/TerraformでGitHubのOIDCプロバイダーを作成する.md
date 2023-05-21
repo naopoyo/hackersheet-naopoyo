@@ -1,6 +1,7 @@
 ---
 name: "TerraformでAWSにGitHub Actions用のOIDCプロバイダーを作成する"
 slug: "dknvddr"
+emoji: "🐙"
 tags: ["AWS", "Terraform", "GitHub"]
 ---
 
