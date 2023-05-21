@@ -1,6 +1,7 @@
 ---
 name: "remとpxの変換表"
 slug: "ddtzwuu"
+emoji: "📄"
 tags: ["CSS"]
 ---
 
