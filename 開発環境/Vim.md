@@ -1,6 +1,7 @@
 ---
 name: "Vim"
 slug: "ldrbxgh"
+emoji: "✏️"
 tags: ["開発環境"]
 ---
 
