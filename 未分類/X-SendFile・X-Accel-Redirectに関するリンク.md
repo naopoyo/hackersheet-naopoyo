@@ -1,6 +1,8 @@
 ---
 name: "X-SendFile・X-Accel-Redirectに関するリンク"
 slug: "wnjalqh"
+emoji: "↗️"
+tags: ["nginx"]
 ---
 
 # X-SendFile・X-Accel-Redirectに関するリンク
