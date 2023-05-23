@@ -1,3 +1,8 @@
+---
+name: "GitHubのIssuesのラベルのようなReactコンポーネントを作る"
+slug: "nnvnqsr"
+---
+
 # GitHubのIssuesのラベルのようなReactコンポーネントを作る
 
 カラーコードを指定すると、自動的に見やすいテキストカラーになるラベルの作り方。
