@@ -1,6 +1,8 @@
 ---
 name: "GitHubのIssuesのラベルのようなReactコンポーネントを作る"
 slug: "nnvnqsr"
+emoji: "🎨"
+tags: ["React"]
 ---
 
 # GitHubのIssuesのラベルのようなReactコンポーネントを作る
