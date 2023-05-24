@@ -2,7 +2,7 @@
 name: "X-SendFile・X-Accel-Redirectに関するリンク"
 slug: "wnjalqh"
 emoji: "↗️"
-tags: ["nginx"]
+tags: ["nginx", "Rails"]
 ---
 
 # X-SendFile・X-Accel-Redirectに関するリンク
