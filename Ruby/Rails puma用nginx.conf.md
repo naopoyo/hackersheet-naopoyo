@@ -1,7 +1,7 @@
 ---
 name: "Rails puma"
 slug: "vymjnmg"
-tags: ["Ruby"]
+tags: ["Ruby", "nginx"]
 ---
 
 # Rails puma
