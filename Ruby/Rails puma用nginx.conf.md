@@ -1,6 +1,7 @@
 ---
 name: "Rails puma"
 slug: "vymjnmg"
+emoji: "🎃"
 tags: ["Ruby", "nginx"]
 ---
 
