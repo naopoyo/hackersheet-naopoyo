@@ -1,3 +1,8 @@
+---
+name: "RailsのVSCodeでの開発時にコード自動補完する"
+slug: "qlqauys"
+---
+
 # RailsのVSCodeでの開発時にコード自動補完する
 
 Railsのプロジェクトの開発にVSCodeを使っている場合、Solargraphを使って、コード自動補完やコードの定義元へのジャンプができるようになります。
