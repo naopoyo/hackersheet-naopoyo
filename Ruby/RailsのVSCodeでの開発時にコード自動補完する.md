@@ -1,6 +1,8 @@
 ---
 name: "RailsのVSCodeでの開発時にコード自動補完する"
 slug: "qlqauys"
+emoji: "🚀"
+tags: ["Ruby", "VSCode"]
 ---
 
 # RailsのVSCodeでの開発時にコード自動補完する
